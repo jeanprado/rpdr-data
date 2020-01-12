@@ -1,7 +1,7 @@
 contestant_id,contestant_name,season_number,episode_number,season_outcome,episode_placement,episode_title,episode_airdate,episode_type,episode_maxi_challenge_type,contestant_entrance,age,hometown_city,hometown_state,handle_instagram,handle_twitter
 1,Shannel,1,1,4,SAFE,Drag on a Dime,2009-02-02,Competition,Sewing,1,29,Las Vegas,Nevada,theofficialshannel,ShannelOfficial
 2,Nina Flowers,1,1,2,WIN,Drag on a Dime,2009-02-02,Competition,Sewing,2,34,Bayamon,Puerto Rico,djninaflowers,DJNinaFlowers
-3,Rebecca Glasscock,1,1,3,LOW,Drag on a Dime,2009-02-02,Competition,Sewing,3,26,Fort Lauderdale,Florida,NA,rebeccaglasscoc
+3,Rebecca Glasscock,1,1,3,LOW,Drag on a Dime,2009-02-02,Competition,Sewing,3,26,Fort Lauderdale,Florida,,rebeccaglasscoc
 4,Ongina,1,1,5,HIGH,Drag on a Dime,2009-02-02,Competition,Sewing,4,26,Los Angeles,California,ongina,ongina
 5,Victoria Porkchop Parker,1,1,9,ELIM,Drag on a Dime,2009-02-02,Competition,Sewing,5,39,Raleigh,North Carolina,porkchopla,PorkChopLA ‏
 6,Akashia,1,1,7,BTM2,Drag on a Dime,2009-02-02,Competition,Sewing,6,24,Cleveland,Ohio,akashiadrag,DragAkashia
@@ -10,7 +10,7 @@ contestant_id,contestant_name,season_number,episode_number,season_outcome,episod
 9,BeBe Zahara Benet,1,1,1,SAFE,Drag on a Dime,2009-02-02,Competition,Sewing,9,28,Minneapolis,Minnesota,bebezahara,BeBeZaharaBenet
 1,Shannel,1,2,4,HIGH,Girl Group Challenge,2009-02-09,Competition,Lipsync,1,29,Las Vegas,Nevada,theofficialshannel,ShannelOfficial
 2,Nina Flowers,1,2,2,HIGH,Girl Group Challenge,2009-02-09,Competition,Lipsync,2,34,Bayamon,Puerto Rico,djninaflowers,DJNinaFlowers
-3,Rebecca Glasscock,1,2,3,HIGH,Girl Group Challenge,2009-02-09,Competition,Lipsync,3,26,Fort Lauderdale,Florida,NA,rebeccaglasscoc
+3,Rebecca Glasscock,1,2,3,HIGH,Girl Group Challenge,2009-02-09,Competition,Lipsync,3,26,Fort Lauderdale,Florida,,rebeccaglasscoc
 4,Ongina,1,2,5,WIN,Girl Group Challenge,2009-02-09,Competition,Lipsync,4,26,Los Angeles,California,ongina,ongina
 6,Akashia,1,2,7,BTM2,Girl Group Challenge,2009-02-09,Competition,Lipsync,6,24,Cleveland,Ohio,akashiadrag,DragAkashia
 7,Tammie Brown,1,2,8,ELIM,Girl Group Challenge,2009-02-09,Competition,Lipsync,7,29,Long Beach,California,planettammie,thetammiebrown
@@ -18,126 +18,126 @@ contestant_id,contestant_name,season_number,episode_number,season_outcome,episod
 9,BeBe Zahara Benet,1,2,1,SAFE,Girl Group Challenge,2009-02-09,Competition,Lipsync,9,28,Minneapolis,Minnesota,bebezahara,BeBeZaharaBenet
 1,Shannel,1,3,4,BTM2,Queens of All Media,2009-02-16,Competition,Talk Show,1,29,Las Vegas,Nevada,theofficialshannel,ShannelOfficial
 2,Nina Flowers,1,3,2,HIGH,Queens of All Media,2009-02-16,Competition,Talk Show,2,34,Bayamon,Puerto Rico,djninaflowers,DJNinaFlowers
-3,Rebecca Glasscock,1,3,3,SAFE,Queens of All Media,2009-02-16,Competition,Talk Show,3,26,Fort Lauderdale,Florida,NA,rebeccaglasscoc
+3,Rebecca Glasscock,1,3,3,SAFE,Queens of All Media,2009-02-16,Competition,Talk Show,3,26,Fort Lauderdale,Florida,,rebeccaglasscoc
 4,Ongina,1,3,5,HIGH,Queens of All Media,2009-02-16,Competition,Talk Show,4,26,Los Angeles,California,ongina,ongina
 6,Akashia,1,3,7,ELIM,Queens of All Media,2009-02-16,Competition,Talk Show,6,24,Cleveland,Ohio,akashiadrag,DragAkashia
 8,Jade,1,3,6,LOW,Queens of All Media,2009-02-16,Competition,Talk Show,8,25,Chicago,Illinois,jadesotomayor,SotomayorJade
 9,BeBe Zahara Benet,1,3,1,WIN,Queens of All Media,2009-02-16,Competition,Talk Show,9,28,Minneapolis,Minnesota,bebezahara,BeBeZaharaBenet
 1,Shannel,1,4,4,LOW,Mac Viva-Glam Challenge,2009-02-23,Competition,Commercial,1,29,Las Vegas,Nevada,theofficialshannel,ShannelOfficial
 2,Nina Flowers,1,4,2,HIGH,Mac Viva-Glam Challenge,2009-02-23,Competition,Commercial,2,34,Bayamon,Puerto Rico,djninaflowers,DJNinaFlowers
-3,Rebecca Glasscock,1,4,3,BTM2,Mac Viva-Glam Challenge,2009-02-23,Competition,Commercial,3,26,Fort Lauderdale,Florida,NA,rebeccaglasscoc
+3,Rebecca Glasscock,1,4,3,BTM2,Mac Viva-Glam Challenge,2009-02-23,Competition,Commercial,3,26,Fort Lauderdale,Florida,,rebeccaglasscoc
 4,Ongina,1,4,5,WIN,Mac Viva-Glam Challenge,2009-02-23,Competition,Commercial,4,26,Los Angeles,California,ongina,ongina
 8,Jade,1,4,6,ELIM,Mac Viva-Glam Challenge,2009-02-23,Competition,Commercial,8,25,Chicago,Illinois,jadesotomayor,SotomayorJade
 9,BeBe Zahara Benet,1,4,1,HIGH,Mac Viva-Glam Challenge,2009-02-23,Competition,Commercial,9,28,Minneapolis,Minnesota,bebezahara,BeBeZaharaBenet
 1,Shannel,1,5,4,HIGH,Drag School of Charm,2009-03-02,Competition,Makeover,1,29,Las Vegas,Nevada,theofficialshannel,ShannelOfficial
 2,Nina Flowers,1,5,2,LOW,Drag School of Charm,2009-03-02,Competition,Makeover,2,34,Bayamon,Puerto Rico,djninaflowers,DJNinaFlowers
-3,Rebecca Glasscock,1,5,3,WIN,Drag School of Charm,2009-03-02,Competition,Makeover,3,26,Fort Lauderdale,Florida,NA,rebeccaglasscoc
+3,Rebecca Glasscock,1,5,3,WIN,Drag School of Charm,2009-03-02,Competition,Makeover,3,26,Fort Lauderdale,Florida,,rebeccaglasscoc
 4,Ongina,1,5,5,ELIM,Drag School of Charm,2009-03-02,Competition,Makeover,4,26,Los Angeles,California,ongina,ongina
 9,BeBe Zahara Benet,1,5,1,BTM2,Drag School of Charm,2009-03-02,Competition,Makeover,9,28,Minneapolis,Minnesota,bebezahara,BeBeZaharaBenet
 1,Shannel,1,6,4,ELIM,Absolut Drag Ball,2009-03-09,Competition,Ball,1,29,Las Vegas,Nevada,theofficialshannel,ShannelOfficial
 2,Nina Flowers,1,6,2,HIGH,Absolut Drag Ball,2009-03-09,Competition,Ball,2,34,Bayamon,Puerto Rico,djninaflowers,DJNinaFlowers
-3,Rebecca Glasscock,1,6,3,BTM2,Absolut Drag Ball,2009-03-09,Competition,Ball,3,26,Fort Lauderdale,Florida,NA,rebeccaglasscoc
+3,Rebecca Glasscock,1,6,3,BTM2,Absolut Drag Ball,2009-03-09,Competition,Ball,3,26,Fort Lauderdale,Florida,,rebeccaglasscoc
 9,BeBe Zahara Benet,1,6,1,WIN,Absolut Drag Ball,2009-03-09,Competition,Ball,9,28,Minneapolis,Minnesota,bebezahara,BeBeZaharaBenet
-2,Nina Flowers,1,8,2,Runner-up,Grande Finale,2009-03-23,Finale,NA,2,34,Bayamon,Puerto Rico,djninaflowers,DJNinaFlowers
-3,Rebecca Glasscock,1,8,3,Eliminated,Grande Finale,2009-03-23,Finale,NA,3,26,Fort Lauderdale,Florida,NA,rebeccaglasscoc
-9,BeBe Zahara Benet,1,8,1,Winner,Grande Finale,2009-03-23,Finale,NA,9,28,Minneapolis,Minnesota,bebezahara,BeBeZaharaBenet
-1,Shannel,1,9,4,Guest,Re-United!,2009-03-23,Reunion,NA,1,29,Las Vegas,Nevada,theofficialshannel,ShannelOfficial
-2,Nina Flowers,1,9,2,Miss C,Re-United!,2009-03-23,Reunion,NA,2,34,Bayamon,Puerto Rico,djninaflowers,DJNinaFlowers
-3,Rebecca Glasscock,1,9,3,Guest,Re-United!,2009-03-23,Reunion,NA,3,26,Fort Lauderdale,Florida,NA,rebeccaglasscoc
-4,Ongina,1,9,5,Guest,Re-United!,2009-03-23,Reunion,NA,4,26,Los Angeles,California,ongina,ongina
-5,Victoria Porkchop Parker,1,9,9,Guest,Re-United!,2009-03-23,Reunion,NA,5,39,Raleigh,North Carolina,porkchopla,PorkChopLA ‏
-6,Akashia,1,9,7,Guest,Re-United!,2009-03-23,Reunion,NA,6,24,Cleveland,Ohio,akashiadrag,DragAkashia
-7,Tammie Brown,1,9,8,Guest,Re-United!,2009-03-23,Reunion,NA,7,29,Long Beach,California,planettammie,thetammiebrown
-8,Jade,1,9,6,Guest,Re-United!,2009-03-23,Reunion,NA,8,25,Chicago,Illinois,jadesotomayor,SotomayorJade
-9,BeBe Zahara Benet,1,9,1,Guest,Re-United!,2009-03-23,Reunion,NA,9,28,Minneapolis,Minnesota,bebezahara,BeBeZaharaBenet
+2,Nina Flowers,1,8,2,Runner-up,Grande Finale,2009-03-23,Finale,,2,34,Bayamon,Puerto Rico,djninaflowers,DJNinaFlowers
+3,Rebecca Glasscock,1,8,3,Eliminated,Grande Finale,2009-03-23,Finale,,3,26,Fort Lauderdale,Florida,,rebeccaglasscoc
+9,BeBe Zahara Benet,1,8,1,Winner,Grande Finale,2009-03-23,Finale,,9,28,Minneapolis,Minnesota,bebezahara,BeBeZaharaBenet
+1,Shannel,1,9,4,Guest,Re-United!,2009-03-23,Reunion,,1,29,Las Vegas,Nevada,theofficialshannel,ShannelOfficial
+2,Nina Flowers,1,9,2,Miss C,Re-United!,2009-03-23,Reunion,,2,34,Bayamon,Puerto Rico,djninaflowers,DJNinaFlowers
+3,Rebecca Glasscock,1,9,3,Guest,Re-United!,2009-03-23,Reunion,,3,26,Fort Lauderdale,Florida,,rebeccaglasscoc
+4,Ongina,1,9,5,Guest,Re-United!,2009-03-23,Reunion,,4,26,Los Angeles,California,ongina,ongina
+5,Victoria Porkchop Parker,1,9,9,Guest,Re-United!,2009-03-23,Reunion,,5,39,Raleigh,North Carolina,porkchopla,PorkChopLA ‏
+6,Akashia,1,9,7,Guest,Re-United!,2009-03-23,Reunion,,6,24,Cleveland,Ohio,akashiadrag,DragAkashia
+7,Tammie Brown,1,9,8,Guest,Re-United!,2009-03-23,Reunion,,7,29,Long Beach,California,planettammie,thetammiebrown
+8,Jade,1,9,6,Guest,Re-United!,2009-03-23,Reunion,,8,25,Chicago,Illinois,jadesotomayor,SotomayorJade
+9,BeBe Zahara Benet,1,9,1,Guest,Re-United!,2009-03-23,Reunion,,9,28,Minneapolis,Minnesota,bebezahara,BeBeZaharaBenet
 10,Nicole Paige Brooks,2,1,11,SAFE,Gone with the Windows,2010-02-01,Competition,Sewing,1,36,Atlanta,Georgia,nicolepaigebrooks,nicolepbrooks
 11,Shangela Laquifa Wadley,2,1,12,ELIM,Gone with the Windows,2010-02-01,Competition,Sewing,2,28,Los Angeles,California,itsshangela,itsSHANGELA
 12,Raven,2,1,2,SAFE,Gone with the Windows,2010-02-01,Competition,Sewing,3,30,Riverside,California,itsravenhunty_,RavenHUNTY
 13,Jujubee,2,1,3,SAFE,Gone with the Windows,2010-02-01,Competition,Sewing,4,25,Boston,Massachusetts,jujubeeonline,jujuboston
-14,Sahara Davenport,2,1,7,BTM2,Gone with the Windows,2010-02-01,Competition,Sewing,5,25,New York,New York,NA,NA
+14,Sahara Davenport,2,1,7,BTM2,Gone with the Windows,2010-02-01,Competition,Sewing,5,25,New York,New York,,
 15,Morgan McMichaels,2,1,8,WIN,Gone with the Windows,2010-02-01,Competition,Sewing,6,28,Mira Loma,California,morganmcmichaels,morganmcmichael
 16,Mystique Summers Madison,2,1,10,LOW,Gone with the Windows,2010-02-01,Competition,Sewing,7,25,Bedford,Texas,mystiquesummers,MystiqueSummers
 17,Jessica Wild,2,1,6,SAFE,Gone with the Windows,2010-02-01,Competition,Sewing,8,29,San Juan,Puerto Rico,jessicawild88,JessicaWild88
 18,Sonique,2,1,9,SAFE,Gone with the Windows,2010-02-01,Competition,Sewing,9,26,Atlanta,Georgia,xosonique,xoSonique
 19,Tatianna,2,1,4,SAFE,Gone with the Windows,2010-02-01,Competition,Sewing,10,21,Falls Church,Virginia,tatiannagram,TATIANNANOW
 20,Pandora Boxx,2,1,5,HIGH,Gone with the Windows,2010-02-01,Competition,Sewing,11,37,Rochester,New York,pandoraboxx,ThePandoraBoxx
-21,Tyra Sanchez,2,1,1,HIGH,Gone with the Windows,2010-02-01,Competition,Sewing,12,21,Orlando,Florida,NA,NA
+21,Tyra Sanchez,2,1,1,HIGH,Gone with the Windows,2010-02-01,Competition,Sewing,12,21,Orlando,Florida,,
 10,Nicole Paige Brooks,2,2,11,ELIM,Starbootylicious,2010-02-08,Competition,Dancing,1,36,Atlanta,Georgia,nicolepaigebrooks,nicolepbrooks
 12,Raven,2,2,2,BTM2,Starbootylicious,2010-02-08,Competition,Dancing,3,30,Riverside,California,itsravenhunty_,RavenHUNTY
 13,Jujubee,2,2,3,HIGH,Starbootylicious,2010-02-08,Competition,Dancing,4,25,Boston,Massachusetts,jujubeeonline,jujuboston
-14,Sahara Davenport,2,2,7,WIN,Starbootylicious,2010-02-08,Competition,Dancing,5,25,New York,New York,NA,NA
+14,Sahara Davenport,2,2,7,WIN,Starbootylicious,2010-02-08,Competition,Dancing,5,25,New York,New York,,
 15,Morgan McMichaels,2,2,8,SAFE,Starbootylicious,2010-02-08,Competition,Dancing,6,28,Mira Loma,California,morganmcmichaels,morganmcmichael
 16,Mystique Summers Madison,2,2,10,HIGH,Starbootylicious,2010-02-08,Competition,Dancing,7,25,Bedford,Texas,mystiquesummers,MystiqueSummers
 17,Jessica Wild,2,2,6,HIGH,Starbootylicious,2010-02-08,Competition,Dancing,8,29,San Juan,Puerto Rico,jessicawild88,JessicaWild88
 18,Sonique,2,2,9,LOW,Starbootylicious,2010-02-08,Competition,Dancing,9,26,Atlanta,Georgia,xosonique,xoSonique
 19,Tatianna,2,2,4,SAFE,Starbootylicious,2010-02-08,Competition,Dancing,10,21,Falls Church,Virginia,tatiannagram,TATIANNANOW
 20,Pandora Boxx,2,2,5,SAFE,Starbootylicious,2010-02-08,Competition,Dancing,11,37,Rochester,New York,pandoraboxx,ThePandoraBoxx
-21,Tyra Sanchez,2,2,1,HIGH,Starbootylicious,2010-02-08,Competition,Dancing,12,21,Orlando,Florida,NA,NA
+21,Tyra Sanchez,2,2,1,HIGH,Starbootylicious,2010-02-08,Competition,Dancing,12,21,Orlando,Florida,,
 12,Raven,2,3,2,BTM2,Country Queens,2010-02-15,Competition,Acting,3,30,Riverside,California,itsravenhunty_,RavenHUNTY
 13,Jujubee,2,3,3,SAFE,Country Queens,2010-02-15,Competition,Acting,4,25,Boston,Massachusetts,jujubeeonline,jujuboston
-14,Sahara Davenport,2,3,7,SAFE,Country Queens,2010-02-15,Competition,Acting,5,25,New York,New York,NA,NA
+14,Sahara Davenport,2,3,7,SAFE,Country Queens,2010-02-15,Competition,Acting,5,25,New York,New York,,
 15,Morgan McMichaels,2,3,8,SAFE,Country Queens,2010-02-15,Competition,Acting,6,28,Mira Loma,California,morganmcmichaels,morganmcmichael
 16,Mystique Summers Madison,2,3,10,ELIM,Country Queens,2010-02-15,Competition,Acting,7,25,Bedford,Texas,mystiquesummers,MystiqueSummers
 17,Jessica Wild,2,3,6,HIGH,Country Queens,2010-02-15,Competition,Acting,8,29,San Juan,Puerto Rico,jessicawild88,JessicaWild88
 18,Sonique,2,3,9,SAFE,Country Queens,2010-02-15,Competition,Acting,9,26,Atlanta,Georgia,xosonique,xoSonique
 19,Tatianna,2,3,4,SAFE,Country Queens,2010-02-15,Competition,Acting,10,21,Falls Church,Virginia,tatiannagram,TATIANNANOW
 20,Pandora Boxx,2,3,5,HIGH,Country Queens,2010-02-15,Competition,Acting,11,37,Rochester,New York,pandoraboxx,ThePandoraBoxx
-21,Tyra Sanchez,2,3,1,WIN,Country Queens,2010-02-15,Competition,Acting,12,21,Orlando,Florida,NA,NA
+21,Tyra Sanchez,2,3,1,WIN,Country Queens,2010-02-15,Competition,Acting,12,21,Orlando,Florida,,
 12,Raven,2,4,2,SAFE,The Snatch Game,2010-02-22,Competition,Snatch Game,3,30,Riverside,California,itsravenhunty_,RavenHUNTY
 13,Jujubee,2,4,3,LOW,The Snatch Game,2010-02-22,Competition,Snatch Game,4,25,Boston,Massachusetts,jujubeeonline,jujuboston
-14,Sahara Davenport,2,4,7,SAFE,The Snatch Game,2010-02-22,Competition,Snatch Game,5,25,New York,New York,NA,NA
+14,Sahara Davenport,2,4,7,SAFE,The Snatch Game,2010-02-22,Competition,Snatch Game,5,25,New York,New York,,
 15,Morgan McMichaels,2,4,8,BTM2,The Snatch Game,2010-02-22,Competition,Snatch Game,6,28,Mira Loma,California,morganmcmichaels,morganmcmichael
 17,Jessica Wild,2,4,6,SAFE,The Snatch Game,2010-02-22,Competition,Snatch Game,8,29,San Juan,Puerto Rico,jessicawild88,JessicaWild88
 18,Sonique,2,4,9,ELIM,The Snatch Game,2010-02-22,Competition,Snatch Game,9,26,Atlanta,Georgia,xosonique,xoSonique
 19,Tatianna,2,4,4,WIN,The Snatch Game,2010-02-22,Competition,Snatch Game,10,21,Falls Church,Virginia,tatiannagram,TATIANNANOW
 20,Pandora Boxx,2,4,5,HIGH,The Snatch Game,2010-02-22,Competition,Snatch Game,11,37,Rochester,New York,pandoraboxx,ThePandoraBoxx
-21,Tyra Sanchez,2,4,1,SAFE,The Snatch Game,2010-02-22,Competition,Snatch Game,12,21,Orlando,Florida,NA,NA
+21,Tyra Sanchez,2,4,1,SAFE,The Snatch Game,2010-02-22,Competition,Snatch Game,12,21,Orlando,Florida,,
 12,Raven,2,5,2,HIGH,Here Comes the Bride,2010-03-01,Competition,Sewing,3,30,Riverside,California,itsravenhunty_,RavenHUNTY
 13,Jujubee,2,5,3,HIGH,Here Comes the Bride,2010-03-01,Competition,Sewing,4,25,Boston,Massachusetts,jujubeeonline,jujuboston
-14,Sahara Davenport,2,5,7,BTM2,Here Comes the Bride,2010-03-01,Competition,Sewing,5,25,New York,New York,NA,NA
+14,Sahara Davenport,2,5,7,BTM2,Here Comes the Bride,2010-03-01,Competition,Sewing,5,25,New York,New York,,
 15,Morgan McMichaels,2,5,8,ELIM,Here Comes the Bride,2010-03-01,Competition,Sewing,6,28,Mira Loma,California,morganmcmichaels,morganmcmichael
 17,Jessica Wild,2,5,6,HIGH,Here Comes the Bride,2010-03-01,Competition,Sewing,8,29,San Juan,Puerto Rico,jessicawild88,JessicaWild88
 19,Tatianna,2,5,4,SAFE,Here Comes the Bride,2010-03-01,Competition,Sewing,10,21,Falls Church,Virginia,tatiannagram,TATIANNANOW
 20,Pandora Boxx,2,5,5,LOW,Here Comes the Bride,2010-03-01,Competition,Sewing,11,37,Rochester,New York,pandoraboxx,ThePandoraBoxx
-21,Tyra Sanchez,2,5,1,WIN,Here Comes the Bride,2010-03-01,Competition,Sewing,12,21,Orlando,Florida,NA,NA
+21,Tyra Sanchez,2,5,1,WIN,Here Comes the Bride,2010-03-01,Competition,Sewing,12,21,Orlando,Florida,,
 12,Raven,2,6,2,HIGH,Rocker Chicks,2010-03-08,Competition,Singing,3,30,Riverside,California,itsravenhunty_,RavenHUNTY
 13,Jujubee,2,6,3,BTM2,Rocker Chicks,2010-03-08,Competition,Singing,4,25,Boston,Massachusetts,jujubeeonline,jujuboston
-14,Sahara Davenport,2,6,7,ELIM,Rocker Chicks,2010-03-08,Competition,Singing,5,25,New York,New York,NA,NA
+14,Sahara Davenport,2,6,7,ELIM,Rocker Chicks,2010-03-08,Competition,Singing,5,25,New York,New York,,
 17,Jessica Wild,2,6,6,WIN,Rocker Chicks,2010-03-08,Competition,Singing,8,29,San Juan,Puerto Rico,jessicawild88,JessicaWild88
 19,Tatianna,2,6,4,SAFE,Rocker Chicks,2010-03-08,Competition,Singing,10,21,Falls Church,Virginia,tatiannagram,TATIANNANOW
 20,Pandora Boxx,2,6,5,HIGH,Rocker Chicks,2010-03-08,Competition,Singing,11,37,Rochester,New York,pandoraboxx,ThePandoraBoxx
-21,Tyra Sanchez,2,6,1,LOW,Rocker Chicks,2010-03-08,Competition,Singing,12,21,Orlando,Florida,NA,NA
+21,Tyra Sanchez,2,6,1,LOW,Rocker Chicks,2010-03-08,Competition,Singing,12,21,Orlando,Florida,,
 12,Raven,2,7,2,WIN,Once Upon a Queen,2010-03-22,Competition,Personal Branding,3,30,Riverside,California,itsravenhunty_,RavenHUNTY
 13,Jujubee,2,7,3,HIGH,Once Upon a Queen,2010-03-22,Competition,Personal Branding,4,25,Boston,Massachusetts,jujubeeonline,jujuboston
 17,Jessica Wild,2,7,6,ELIM,Once Upon a Queen,2010-03-22,Competition,Personal Branding,8,29,San Juan,Puerto Rico,jessicawild88,JessicaWild88
 19,Tatianna,2,7,4,BTM2,Once Upon a Queen,2010-03-22,Competition,Personal Branding,10,21,Falls Church,Virginia,tatiannagram,TATIANNANOW
 20,Pandora Boxx,2,7,5,LOW,Once Upon a Queen,2010-03-22,Competition,Personal Branding,11,37,Rochester,New York,pandoraboxx,ThePandoraBoxx
-21,Tyra Sanchez,2,7,1,HIGH,Once Upon a Queen,2010-03-22,Competition,Personal Branding,12,21,Orlando,Florida,NA,NA
+21,Tyra Sanchez,2,7,1,HIGH,Once Upon a Queen,2010-03-22,Competition,Personal Branding,12,21,Orlando,Florida,,
 12,Raven,2,8,2,WIN,Golden Gals,2010-03-29,Competition,Makeover,3,30,Riverside,California,itsravenhunty_,RavenHUNTY
 13,Jujubee,2,8,3,BTM2,Golden Gals,2010-03-29,Competition,Makeover,4,25,Boston,Massachusetts,jujubeeonline,jujuboston
 19,Tatianna,2,8,4,HIGH,Golden Gals,2010-03-29,Competition,Makeover,10,21,Falls Church,Virginia,tatiannagram,TATIANNANOW
 20,Pandora Boxx,2,8,5,ELIM,Golden Gals,2010-03-29,Competition,Makeover,11,37,Rochester,New York,pandoraboxx,ThePandoraBoxx
-21,Tyra Sanchez,2,8,1,HIGH,Golden Gals,2010-03-29,Competition,Makeover,12,21,Orlando,Florida,NA,NA
+21,Tyra Sanchez,2,8,1,HIGH,Golden Gals,2010-03-29,Competition,Makeover,12,21,Orlando,Florida,,
 12,Raven,2,9,2,HIGH,The Diva Awards,2010-04-12,Competition,Ball,3,30,Riverside,California,itsravenhunty_,RavenHUNTY
 13,Jujubee,2,9,3,BTM2,The Diva Awards,2010-04-12,Competition,Ball,4,25,Boston,Massachusetts,jujubeeonline,jujuboston
 19,Tatianna,2,9,4,ELIM,The Diva Awards,2010-04-12,Competition,Ball,10,21,Falls Church,Virginia,tatiannagram,TATIANNANOW
-21,Tyra Sanchez,2,9,1,WIN,The Diva Awards,2010-04-12,Competition,Ball,12,21,Orlando,Florida,NA,NA
-12,Raven,2,11,2,Runner-up,Grand Finale,2010-04-26,Finale,NA,3,30,Riverside,California,itsravenhunty_,RavenHUNTY
-13,Jujubee,2,11,3,Eliminated,Grand Finale,2010-04-26,Finale,NA,4,25,Boston,Massachusetts,jujubeeonline,jujuboston
-21,Tyra Sanchez,2,11,1,Winner,Grand Finale,2010-04-26,Finale,NA,12,21,Orlando,Florida,NA,NA
-10,Nicole Paige Brooks,2,12,11,Guest,Reunion,2010-04-26,Reunion,NA,1,36,Atlanta,Georgia,nicolepaigebrooks,nicolepbrooks
-11,Shangela Laquifa Wadley,2,12,12,Guest,Reunion,2010-04-26,Reunion,NA,2,28,Los Angeles,California,itsshangela,itsSHANGELA
-12,Raven,2,12,2,Guest,Reunion,2010-04-26,Reunion,NA,3,30,Riverside,California,itsravenhunty_,RavenHUNTY
-13,Jujubee,2,12,3,Guest,Reunion,2010-04-26,Reunion,NA,4,25,Boston,Massachusetts,jujubeeonline,jujuboston
-14,Sahara Davenport,2,12,7,Guest,Reunion,2010-04-26,Reunion,NA,5,25,New York,New York,NA,NA
-15,Morgan McMichaels,2,12,8,Guest,Reunion,2010-04-26,Reunion,NA,6,28,Mira Loma,California,morganmcmichaels,morganmcmichael
-16,Mystique Summers Madison,2,12,10,Guest,Reunion,2010-04-26,Reunion,NA,7,25,Bedford,Texas,mystiquesummers,MystiqueSummers
-17,Jessica Wild,2,12,6,Guest,Reunion,2010-04-26,Reunion,NA,8,29,San Juan,Puerto Rico,jessicawild88,JessicaWild88
-18,Sonique,2,12,9,Guest,Reunion,2010-04-26,Reunion,NA,9,26,Atlanta,Georgia,xosonique,xoSonique
-19,Tatianna,2,12,4,Guest,Reunion,2010-04-26,Reunion,NA,10,21,Falls Church,Virginia,tatiannagram,TATIANNANOW
-20,Pandora Boxx,2,12,5,Miss C,Reunion,2010-04-26,Reunion,NA,11,37,Rochester,New York,pandoraboxx,ThePandoraBoxx
-21,Tyra Sanchez,2,12,1,Guest,Reunion,2010-04-26,Reunion,NA,12,21,Orlando,Florida,NA,NA
-22,Delta Work,3,2,7,SAFE,The Queen Who Mopped Xmas,2011-01-24,Competition,Sewing,1,34,Norwalk,California,deltawork,NA
+21,Tyra Sanchez,2,9,1,WIN,The Diva Awards,2010-04-12,Competition,Ball,12,21,Orlando,Florida,,
+12,Raven,2,11,2,Runner-up,Grand Finale,2010-04-26,Finale,,3,30,Riverside,California,itsravenhunty_,RavenHUNTY
+13,Jujubee,2,11,3,Eliminated,Grand Finale,2010-04-26,Finale,,4,25,Boston,Massachusetts,jujubeeonline,jujuboston
+21,Tyra Sanchez,2,11,1,Winner,Grand Finale,2010-04-26,Finale,,12,21,Orlando,Florida,,
+10,Nicole Paige Brooks,2,12,11,Guest,Reunion,2010-04-26,Reunion,,1,36,Atlanta,Georgia,nicolepaigebrooks,nicolepbrooks
+11,Shangela Laquifa Wadley,2,12,12,Guest,Reunion,2010-04-26,Reunion,,2,28,Los Angeles,California,itsshangela,itsSHANGELA
+12,Raven,2,12,2,Guest,Reunion,2010-04-26,Reunion,,3,30,Riverside,California,itsravenhunty_,RavenHUNTY
+13,Jujubee,2,12,3,Guest,Reunion,2010-04-26,Reunion,,4,25,Boston,Massachusetts,jujubeeonline,jujuboston
+14,Sahara Davenport,2,12,7,Guest,Reunion,2010-04-26,Reunion,,5,25,New York,New York,,
+15,Morgan McMichaels,2,12,8,Guest,Reunion,2010-04-26,Reunion,,6,28,Mira Loma,California,morganmcmichaels,morganmcmichael
+16,Mystique Summers Madison,2,12,10,Guest,Reunion,2010-04-26,Reunion,,7,25,Bedford,Texas,mystiquesummers,MystiqueSummers
+17,Jessica Wild,2,12,6,Guest,Reunion,2010-04-26,Reunion,,8,29,San Juan,Puerto Rico,jessicawild88,JessicaWild88
+18,Sonique,2,12,9,Guest,Reunion,2010-04-26,Reunion,,9,26,Atlanta,Georgia,xosonique,xoSonique
+19,Tatianna,2,12,4,Guest,Reunion,2010-04-26,Reunion,,10,21,Falls Church,Virginia,tatiannagram,TATIANNANOW
+20,Pandora Boxx,2,12,5,Miss C,Reunion,2010-04-26,Reunion,,11,37,Rochester,New York,pandoraboxx,ThePandoraBoxx
+21,Tyra Sanchez,2,12,1,Guest,Reunion,2010-04-26,Reunion,,12,21,Orlando,Florida,,
+22,Delta Work,3,2,7,SAFE,The Queen Who Mopped Xmas,2011-01-24,Competition,Sewing,1,34,Norwalk,California,deltawork,
 23,Carmen Carrera,3,2,5,LOW,The Queen Who Mopped Xmas,2011-01-24,Competition,Sewing,2,25,Elmwood Park,New Jersey,carmen_carrera,Carmen_Carrera
 24,Phoenix,3,2,12,SAFE,The Queen Who Mopped Xmas,2011-01-24,Competition,Sewing,3,29,Atlanta,Georgia,phoenix_atl,Phoenix_atl
 25,Manila Luzon,3,2,2,HIGH,The Queen Who Mopped Xmas,2011-01-24,Competition,Sewing,4,28,New York,New York,manilaluzon,manilaluzon
@@ -147,10 +147,10 @@ contestant_id,contestant_name,season_number,episode_number,season_outcome,episod
 29,Mariah,3,2,9,SAFE,The Queen Who Mopped Xmas,2011-01-24,Competition,Sewing,8,29,Atlanta,Georgia,mug4dayz,mug4dayz
 30,Alexis Mateo,3,2,3,SAFE,The Queen Who Mopped Xmas,2011-01-24,Competition,Sewing,9,30,St. Petersburg,Florida,miss_alexis_mateo,alexismateo79
 31,India Ferrah,3,2,10,SAFE,The Queen Who Mopped Xmas,2011-01-24,Competition,Sewing,10,23,Dayton,Ohio,indiaferrah,Indiaferrah
-32,Mimi Imfurst,3,2,11,HIGH,The Queen Who Mopped Xmas,2011-01-24,Competition,Sewing,11,27,New York,New York,mimiimfurst,NA
+32,Mimi Imfurst,3,2,11,HIGH,The Queen Who Mopped Xmas,2011-01-24,Competition,Sewing,11,27,New York,New York,mimiimfurst,
 33,Raja,3,2,1,WIN,The Queen Who Mopped Xmas,2011-01-24,Competition,Sewing,12,36,Los Angeles,California,sutanamrull,sutanamrull
 34,Shangela,3,2,6,BTM2,The Queen Who Mopped Xmas,2011-01-24,Competition,Sewing,13,29,Los Angeles,California,itsshangela,itsSHANGELA
-22,Delta Work,3,3,7,BTM2,Queens in Space,2011-01-31,Competition,Acting,1,34,Norwalk,California,deltawork,NA
+22,Delta Work,3,3,7,BTM2,Queens in Space,2011-01-31,Competition,Acting,1,34,Norwalk,California,deltawork,
 23,Carmen Carrera,3,3,5,LOW,Queens in Space,2011-01-31,Competition,Acting,2,25,Elmwood Park,New Jersey,carmen_carrera,Carmen_Carrera
 24,Phoenix,3,3,12,ELIM,Queens in Space,2011-01-31,Competition,Acting,3,29,Atlanta,Georgia,phoenix_atl,Phoenix_atl
 25,Manila Luzon,3,3,2,SAFE,Queens in Space,2011-01-31,Competition,Acting,4,28,New York,New York,manilaluzon,manilaluzon
@@ -159,10 +159,10 @@ contestant_id,contestant_name,season_number,episode_number,season_outcome,episod
 29,Mariah,3,3,9,HIGH,Queens in Space,2011-01-31,Competition,Acting,8,29,Atlanta,Georgia,mug4dayz,mug4dayz
 30,Alexis Mateo,3,3,3,WIN,Queens in Space,2011-01-31,Competition,Acting,9,30,St. Petersburg,Florida,miss_alexis_mateo,alexismateo79
 31,India Ferrah,3,3,10,SAFE,Queens in Space,2011-01-31,Competition,Acting,10,23,Dayton,Ohio,indiaferrah,Indiaferrah
-32,Mimi Imfurst,3,3,11,HIGH,Queens in Space,2011-01-31,Competition,Acting,11,27,New York,New York,mimiimfurst,NA
+32,Mimi Imfurst,3,3,11,HIGH,Queens in Space,2011-01-31,Competition,Acting,11,27,New York,New York,mimiimfurst,
 33,Raja,3,3,1,SAFE,Queens in Space,2011-01-31,Competition,Acting,12,36,Los Angeles,California,sutanamrull,sutanamrull
 34,Shangela,3,3,6,WIN,Queens in Space,2011-01-31,Competition,Acting,13,29,Los Angeles,California,itsshangela,itsSHANGELA
-22,Delta Work,3,4,7,SAFE,Totally Leotarded,2011-02-07,Competition,Personal Branding,1,34,Norwalk,California,deltawork,NA
+22,Delta Work,3,4,7,SAFE,Totally Leotarded,2011-02-07,Competition,Personal Branding,1,34,Norwalk,California,deltawork,
 23,Carmen Carrera,3,4,5,SAFE,Totally Leotarded,2011-02-07,Competition,Personal Branding,2,25,Elmwood Park,New Jersey,carmen_carrera,Carmen_Carrera
 25,Manila Luzon,3,4,2,SAFE,Totally Leotarded,2011-02-07,Competition,Personal Branding,4,28,New York,New York,manilaluzon,manilaluzon
 26,Stacy Layne Matthews,3,4,8,HIGH,Totally Leotarded,2011-02-07,Competition,Personal Branding,5,25,Back Swamp,North Carolina,stacylmatthews,StacyLMatthews
@@ -170,10 +170,10 @@ contestant_id,contestant_name,season_number,episode_number,season_outcome,episod
 29,Mariah,3,4,9,LOW,Totally Leotarded,2011-02-07,Competition,Personal Branding,8,29,Atlanta,Georgia,mug4dayz,mug4dayz
 30,Alexis Mateo,3,4,3,WIN,Totally Leotarded,2011-02-07,Competition,Personal Branding,9,30,St. Petersburg,Florida,miss_alexis_mateo,alexismateo79
 31,India Ferrah,3,4,10,BTM2,Totally Leotarded,2011-02-07,Competition,Personal Branding,10,23,Dayton,Ohio,indiaferrah,Indiaferrah
-32,Mimi Imfurst,3,4,11,ELIM,Totally Leotarded,2011-02-07,Competition,Personal Branding,11,27,New York,New York,mimiimfurst,NA
+32,Mimi Imfurst,3,4,11,ELIM,Totally Leotarded,2011-02-07,Competition,Personal Branding,11,27,New York,New York,mimiimfurst,
 33,Raja,3,4,1,SAFE,Totally Leotarded,2011-02-07,Competition,Personal Branding,12,36,Los Angeles,California,sutanamrull,sutanamrull
 34,Shangela,3,4,6,SAFE,Totally Leotarded,2011-02-07,Competition,Personal Branding,13,29,Los Angeles,California,itsshangela,itsSHANGELA
-22,Delta Work,3,5,7,SAFE,QNN News,2011-02-14,Competition,Talk Show,1,34,Norwalk,California,deltawork,NA
+22,Delta Work,3,5,7,SAFE,QNN News,2011-02-14,Competition,Talk Show,1,34,Norwalk,California,deltawork,
 23,Carmen Carrera,3,5,5,SAFE,QNN News,2011-02-14,Competition,Talk Show,2,25,Elmwood Park,New Jersey,carmen_carrera,Carmen_Carrera
 25,Manila Luzon,3,5,2,WIN,QNN News,2011-02-14,Competition,Talk Show,4,28,New York,New York,manilaluzon,manilaluzon
 26,Stacy Layne Matthews,3,5,8,BTM2,QNN News,2011-02-14,Competition,Talk Show,5,25,Back Swamp,North Carolina,stacylmatthews,StacyLMatthews
@@ -183,7 +183,7 @@ contestant_id,contestant_name,season_number,episode_number,season_outcome,episod
 31,India Ferrah,3,5,10,ELIM,QNN News,2011-02-14,Competition,Talk Show,10,23,Dayton,Ohio,indiaferrah,Indiaferrah
 33,Raja,3,5,1,SAFE,QNN News,2011-02-14,Competition,Talk Show,12,36,Los Angeles,California,sutanamrull,sutanamrull
 34,Shangela,3,5,6,HIGH,QNN News,2011-02-14,Competition,Talk Show,13,29,Los Angeles,California,itsshangela,itsSHANGELA
-22,Delta Work,3,6,7,BTM2,The Snatch Game,2011-02-21,Competition,Snatch Game,1,34,Norwalk,California,deltawork,NA
+22,Delta Work,3,6,7,BTM2,The Snatch Game,2011-02-21,Competition,Snatch Game,1,34,Norwalk,California,deltawork,
 23,Carmen Carrera,3,6,5,SAFE,The Snatch Game,2011-02-21,Competition,Snatch Game,2,25,Elmwood Park,New Jersey,carmen_carrera,Carmen_Carrera
 25,Manila Luzon,3,6,2,SAFE,The Snatch Game,2011-02-21,Competition,Snatch Game,4,28,New York,New York,manilaluzon,manilaluzon
 26,Stacy Layne Matthews,3,6,8,WIN,The Snatch Game,2011-02-21,Competition,Snatch Game,5,25,Back Swamp,North Carolina,stacylmatthews,StacyLMatthews
@@ -192,7 +192,7 @@ contestant_id,contestant_name,season_number,episode_number,season_outcome,episod
 30,Alexis Mateo,3,6,3,HIGH,The Snatch Game,2011-02-21,Competition,Snatch Game,9,30,St. Petersburg,Florida,miss_alexis_mateo,alexismateo79
 33,Raja,3,6,1,HIGH,The Snatch Game,2011-02-21,Competition,Snatch Game,12,36,Los Angeles,California,sutanamrull,sutanamrull
 34,Shangela,3,6,6,SAFE,The Snatch Game,2011-02-21,Competition,Snatch Game,13,29,Los Angeles,California,itsshangela,itsSHANGELA
-22,Delta Work,3,7,7,HIGH,"Face, Face, Face of Cakes",2011-02-28,Competition,Sewing,1,34,Norwalk,California,deltawork,NA
+22,Delta Work,3,7,7,HIGH,"Face, Face, Face of Cakes",2011-02-28,Competition,Sewing,1,34,Norwalk,California,deltawork,
 23,Carmen Carrera,3,7,5,LOW,"Face, Face, Face of Cakes",2011-02-28,Competition,Sewing,2,25,Elmwood Park,New Jersey,carmen_carrera,Carmen_Carrera
 25,Manila Luzon,3,7,2,HIGH,"Face, Face, Face of Cakes",2011-02-28,Competition,Sewing,4,28,New York,New York,manilaluzon,manilaluzon
 26,Stacy Layne Matthews,3,7,8,ELIM,"Face, Face, Face of Cakes",2011-02-28,Competition,Sewing,5,25,Back Swamp,North Carolina,stacylmatthews,StacyLMatthews
@@ -200,7 +200,7 @@ contestant_id,contestant_name,season_number,episode_number,season_outcome,episod
 30,Alexis Mateo,3,7,3,BTM2,"Face, Face, Face of Cakes",2011-02-28,Competition,Sewing,9,30,St. Petersburg,Florida,miss_alexis_mateo,alexismateo79
 33,Raja,3,7,1,WIN,"Face, Face, Face of Cakes",2011-02-28,Competition,Sewing,12,36,Los Angeles,California,sutanamrull,sutanamrull
 34,Shangela,3,7,6,LOW,"Face, Face, Face of Cakes",2011-02-28,Competition,Sewing,13,29,Los Angeles,California,itsshangela,itsSHANGELA
-22,Delta Work,3,8,7,ELIM,Ru Ha Ha,2011-03-07,Competition,Comedy,1,34,Norwalk,California,deltawork,NA
+22,Delta Work,3,8,7,ELIM,Ru Ha Ha,2011-03-07,Competition,Comedy,1,34,Norwalk,California,deltawork,
 23,Carmen Carrera,3,8,5,HIGH,Ru Ha Ha,2011-03-07,Competition,Comedy,2,25,Elmwood Park,New Jersey,carmen_carrera,Carmen_Carrera
 25,Manila Luzon,3,8,2,BTM2,Ru Ha Ha,2011-03-07,Competition,Comedy,4,28,New York,New York,manilaluzon,manilaluzon
 28,Yara Sofia,3,8,4,HIGH,Ru Ha Ha,2011-03-07,Competition,Comedy,7,26,Manati,Puerto Rico,yarasofiapr,yarasofiapr
@@ -233,29 +233,29 @@ contestant_id,contestant_name,season_number,episode_number,season_outcome,episod
 28,Yara Sofia,3,13,4,ELIM,Make Dat Money,2011-04-11,Competition,Ball,7,26,Manati,Puerto Rico,yarasofiapr,yarasofiapr
 30,Alexis Mateo,3,13,3,BTM2,Make Dat Money,2011-04-11,Competition,Ball,9,30,St. Petersburg,Florida,miss_alexis_mateo,alexismateo79
 33,Raja,3,13,1,HIGH,Make Dat Money,2011-04-11,Competition,Ball,12,36,Los Angeles,California,sutanamrull,sutanamrull
-25,Manila Luzon,3,15,2,Runner-up,Grand Finale,2011-04-25,Finale,NA,4,28,New York,New York,manilaluzon,manilaluzon
-30,Alexis Mateo,3,15,3,Eliminated,Grand Finale,2011-04-25,Finale,NA,9,30,St. Petersburg,Florida,miss_alexis_mateo,alexismateo79
-33,Raja,3,15,1,Winner,Grand Finale,2011-04-25,Finale,NA,12,36,Los Angeles,California,sutanamrull,sutanamrull
-22,Delta Work,3,16,7,Guest,Reunited!,2011-05-02,Reunion,NA,1,34,Norwalk,California,deltawork,NA
-23,Carmen Carrera,3,16,5,Guest,Reunited!,2011-05-02,Reunion,NA,2,25,Elmwood Park,New Jersey,carmen_carrera,Carmen_Carrera
-24,Phoenix,3,16,12,Guest,Reunited!,2011-05-02,Reunion,NA,3,29,Atlanta,Georgia,phoenix_atl,Phoenix_atl
-25,Manila Luzon,3,16,2,Guest,Reunited!,2011-05-02,Reunion,NA,4,28,New York,New York,manilaluzon,manilaluzon
-26,Stacy Layne Matthews,3,16,8,Guest,Reunited!,2011-05-02,Reunion,NA,5,25,Back Swamp,North Carolina,stacylmatthews,StacyLMatthews
-27,Venus D-Lite,3,16,13,Guest,Reunited!,2011-05-02,Reunion,NA,6,26,Los Angeles,California,venusdlitemadonna,venusdlite
-28,Yara Sofia,3,16,4,Miss C,Reunited!,2011-05-02,Reunion,NA,7,26,Manati,Puerto Rico,yarasofiapr,yarasofiapr
-29,Mariah,3,16,9,Guest,Reunited!,2011-05-02,Reunion,NA,8,29,Atlanta,Georgia,mug4dayz,mug4dayz
-30,Alexis Mateo,3,16,3,Guest,Reunited!,2011-05-02,Reunion,NA,9,30,St. Petersburg,Florida,miss_alexis_mateo,alexismateo79
-31,India Ferrah,3,16,10,Guest,Reunited!,2011-05-02,Reunion,NA,10,23,Dayton,Ohio,indiaferrah,Indiaferrah
-32,Mimi Imfurst,3,16,11,Guest,Reunited!,2011-05-02,Reunion,NA,11,27,New York,New York,mimiimfurst,NA
-33,Raja,3,16,1,Guest,Reunited!,2011-05-02,Reunion,NA,12,36,Los Angeles,California,sutanamrull,sutanamrull
-34,Shangela,3,16,6,Guest,Reunited!,2011-05-02,Reunion,NA,13,29,Los Angeles,California,itsshangela,itsSHANGELA
+25,Manila Luzon,3,15,2,Runner-up,Grand Finale,2011-04-25,Finale,,4,28,New York,New York,manilaluzon,manilaluzon
+30,Alexis Mateo,3,15,3,Eliminated,Grand Finale,2011-04-25,Finale,,9,30,St. Petersburg,Florida,miss_alexis_mateo,alexismateo79
+33,Raja,3,15,1,Winner,Grand Finale,2011-04-25,Finale,,12,36,Los Angeles,California,sutanamrull,sutanamrull
+22,Delta Work,3,16,7,Guest,Reunited!,2011-05-02,Reunion,,1,34,Norwalk,California,deltawork,
+23,Carmen Carrera,3,16,5,Guest,Reunited!,2011-05-02,Reunion,,2,25,Elmwood Park,New Jersey,carmen_carrera,Carmen_Carrera
+24,Phoenix,3,16,12,Guest,Reunited!,2011-05-02,Reunion,,3,29,Atlanta,Georgia,phoenix_atl,Phoenix_atl
+25,Manila Luzon,3,16,2,Guest,Reunited!,2011-05-02,Reunion,,4,28,New York,New York,manilaluzon,manilaluzon
+26,Stacy Layne Matthews,3,16,8,Guest,Reunited!,2011-05-02,Reunion,,5,25,Back Swamp,North Carolina,stacylmatthews,StacyLMatthews
+27,Venus D-Lite,3,16,13,Guest,Reunited!,2011-05-02,Reunion,,6,26,Los Angeles,California,venusdlitemadonna,venusdlite
+28,Yara Sofia,3,16,4,Miss C,Reunited!,2011-05-02,Reunion,,7,26,Manati,Puerto Rico,yarasofiapr,yarasofiapr
+29,Mariah,3,16,9,Guest,Reunited!,2011-05-02,Reunion,,8,29,Atlanta,Georgia,mug4dayz,mug4dayz
+30,Alexis Mateo,3,16,3,Guest,Reunited!,2011-05-02,Reunion,,9,30,St. Petersburg,Florida,miss_alexis_mateo,alexismateo79
+31,India Ferrah,3,16,10,Guest,Reunited!,2011-05-02,Reunion,,10,23,Dayton,Ohio,indiaferrah,Indiaferrah
+32,Mimi Imfurst,3,16,11,Guest,Reunited!,2011-05-02,Reunion,,11,27,New York,New York,mimiimfurst,
+33,Raja,3,16,1,Guest,Reunited!,2011-05-02,Reunion,,12,36,Los Angeles,California,sutanamrull,sutanamrull
+34,Shangela,3,16,6,Guest,Reunited!,2011-05-02,Reunion,,13,29,Los Angeles,California,itsshangela,itsSHANGELA
 35,Willam,4,1,7,SAFE,RuPocalypse Now!,2012-01-30,Competition,Sewing,1,29,Los Angeles,California,willam,willam
 36,Lashauwn Beyond,4,1,12,HIGH,RuPocalypse Now!,2012-01-30,Competition,Sewing,2,21,Fort Lauderdale,Florida,lashauwnbeyond,LashauwnBeyond
 37,Jiggly Caliente,4,1,8,BTM2,RuPocalypse Now!,2012-01-30,Competition,Sewing,3,30,Queens,New York,jigglycalienteofficial,JigglyCaliente
 38,Phi Phi O'Hara,4,1,2,SAFE,RuPocalypse Now!,2012-01-30,Competition,Sewing,4,25,Chicago,Illinois,phiphiohara,PhiPhiOhara
 39,Madame LaQueer,4,1,10,SAFE,RuPocalypse Now!,2012-01-30,Competition,Sewing,5,29,Carolina,Puerto Rico,ditisnietmilan,MadameLaQueer
-40,Milan,4,1,9,SAFE,RuPocalypse Now!,2012-01-30,Competition,Sewing,6,36,New York,New York,NA,NA
-41,Alisa Summers,4,1,13,ELIM,RuPocalypse Now!,2012-01-30,Competition,Sewing,7,23,Tampa,Florida,NA,NA
+40,Milan,4,1,9,SAFE,RuPocalypse Now!,2012-01-30,Competition,Sewing,6,36,New York,New York,,
+41,Alisa Summers,4,1,13,ELIM,RuPocalypse Now!,2012-01-30,Competition,Sewing,7,23,Tampa,Florida,,
 42,DiDa Ritz,4,1,6,SAFE,RuPocalypse Now!,2012-01-30,Competition,Sewing,8,25,Chicago,Illinois,didaswag,MissDidaRitz
 43,The Princess,4,1,11,HIGH,RuPocalypse Now!,2012-01-30,Competition,Sewing,9,31,Chicago,Illinois,thedragprincess,TheDragPrincess
 44,Kenya Michaels,4,1,5,LOW,RuPocalypse Now!,2012-01-30,Competition,Sewing,10,21,Dorado,Puerto Rico,realkenyamichaels,KenyaMichaels
@@ -267,7 +267,7 @@ contestant_id,contestant_name,season_number,episode_number,season_outcome,episod
 37,Jiggly Caliente,4,2,8,SAFE,WTF!: Wrestling's Trashiest Fighters,2012-02-06,Competition,Acting,3,30,Queens,New York,jigglycalienteofficial,JigglyCaliente
 38,Phi Phi O'Hara,4,2,2,SAFE,WTF!: Wrestling's Trashiest Fighters,2012-02-06,Competition,Acting,4,25,Chicago,Illinois,phiphiohara,PhiPhiOhara
 39,Madame LaQueer,4,2,10,WIN,WTF!: Wrestling's Trashiest Fighters,2012-02-06,Competition,Acting,5,29,Carolina,Puerto Rico,ditisnietmilan,MadameLaQueer
-40,Milan,4,2,9,HIGH,WTF!: Wrestling's Trashiest Fighters,2012-02-06,Competition,Acting,6,36,New York,New York,NA,NA
+40,Milan,4,2,9,HIGH,WTF!: Wrestling's Trashiest Fighters,2012-02-06,Competition,Acting,6,36,New York,New York,,
 42,DiDa Ritz,4,2,6,LOW,WTF!: Wrestling's Trashiest Fighters,2012-02-06,Competition,Acting,8,25,Chicago,Illinois,didaswag,MissDidaRitz
 43,The Princess,4,2,11,BTM2,WTF!: Wrestling's Trashiest Fighters,2012-02-06,Competition,Acting,9,31,Chicago,Illinois,thedragprincess,TheDragPrincess
 44,Kenya Michaels,4,2,5,SAFE,WTF!: Wrestling's Trashiest Fighters,2012-02-06,Competition,Acting,10,21,Dorado,Puerto Rico,realkenyamichaels,KenyaMichaels
@@ -278,7 +278,7 @@ contestant_id,contestant_name,season_number,episode_number,season_outcome,episod
 37,Jiggly Caliente,4,3,8,SAFE,Glamazons vs Champions,2012-02-13,Competition,Commercial,3,30,Queens,New York,jigglycalienteofficial,JigglyCaliente
 38,Phi Phi O'Hara,4,3,2,SAFE,Glamazons vs Champions,2012-02-13,Competition,Commercial,4,25,Chicago,Illinois,phiphiohara,PhiPhiOhara
 39,Madame LaQueer,4,3,10,LOW,Glamazons vs Champions,2012-02-13,Competition,Commercial,5,29,Carolina,Puerto Rico,ditisnietmilan,MadameLaQueer
-40,Milan,4,3,9,SAFE,Glamazons vs Champions,2012-02-13,Competition,Commercial,6,36,New York,New York,NA,NA
+40,Milan,4,3,9,SAFE,Glamazons vs Champions,2012-02-13,Competition,Commercial,6,36,New York,New York,,
 42,DiDa Ritz,4,3,6,BTM2,Glamazons vs Champions,2012-02-13,Competition,Commercial,8,25,Chicago,Illinois,didaswag,MissDidaRitz
 43,The Princess,4,3,11,ELIM,Glamazons vs Champions,2012-02-13,Competition,Commercial,9,31,Chicago,Illinois,thedragprincess,TheDragPrincess
 44,Kenya Michaels,4,3,5,HIGH,Glamazons vs Champions,2012-02-13,Competition,Commercial,10,21,Dorado,Puerto Rico,realkenyamichaels,KenyaMichaels
@@ -289,7 +289,7 @@ contestant_id,contestant_name,season_number,episode_number,season_outcome,episod
 37,Jiggly Caliente,4,4,8,HIGH,Queens Behind Bars,2012-02-20,Competition,Acting,3,30,Queens,New York,jigglycalienteofficial,JigglyCaliente
 38,Phi Phi O'Hara,4,4,2,HIGH,Queens Behind Bars,2012-02-20,Competition,Acting,4,25,Chicago,Illinois,phiphiohara,PhiPhiOhara
 39,Madame LaQueer,4,4,10,ELIM,Queens Behind Bars,2012-02-20,Competition,Acting,5,29,Carolina,Puerto Rico,ditisnietmilan,MadameLaQueer
-40,Milan,4,4,9,BTM2,Queens Behind Bars,2012-02-20,Competition,Acting,6,36,New York,New York,NA,NA
+40,Milan,4,4,9,BTM2,Queens Behind Bars,2012-02-20,Competition,Acting,6,36,New York,New York,,
 42,DiDa Ritz,4,4,6,SAFE,Queens Behind Bars,2012-02-20,Competition,Acting,8,25,Chicago,Illinois,didaswag,MissDidaRitz
 44,Kenya Michaels,4,4,5,LOW,Queens Behind Bars,2012-02-20,Competition,Acting,10,21,Dorado,Puerto Rico,realkenyamichaels,KenyaMichaels
 45,Chad Michaels,4,4,2,HIGH,Queens Behind Bars,2012-02-20,Competition,Acting,11,40,San Diego,California,chadmichaelsallstar,ChadMichaels1
@@ -298,7 +298,7 @@ contestant_id,contestant_name,season_number,episode_number,season_outcome,episod
 35,Willam,4,5,7,HIGH,Snatch Game,2012-02-27,Competition,Snatch Game,1,29,Los Angeles,California,willam,willam
 37,Jiggly Caliente,4,5,8,SAFE,Snatch Game,2012-02-27,Competition,Snatch Game,3,30,Queens,New York,jigglycalienteofficial,JigglyCaliente
 38,Phi Phi O'Hara,4,5,2,LOW,Snatch Game,2012-02-27,Competition,Snatch Game,4,25,Chicago,Illinois,phiphiohara,PhiPhiOhara
-40,Milan,4,5,9,BTM2,Snatch Game,2012-02-27,Competition,Snatch Game,6,36,New York,New York,NA,NA
+40,Milan,4,5,9,BTM2,Snatch Game,2012-02-27,Competition,Snatch Game,6,36,New York,New York,,
 42,DiDa Ritz,4,5,6,SAFE,Snatch Game,2012-02-27,Competition,Snatch Game,8,25,Chicago,Illinois,didaswag,MissDidaRitz
 44,Kenya Michaels,4,5,5,ELIM,Snatch Game,2012-02-27,Competition,Snatch Game,10,21,Dorado,Puerto Rico,realkenyamichaels,KenyaMichaels
 45,Chad Michaels,4,5,2,WIN,Snatch Game,2012-02-27,Competition,Snatch Game,11,40,San Diego,California,chadmichaelsallstar,ChadMichaels1
@@ -307,7 +307,7 @@ contestant_id,contestant_name,season_number,episode_number,season_outcome,episod
 35,Willam,4,6,7,WIN,Float Your Boat,2012-03-05,Competition,Sewing,1,29,Los Angeles,California,willam,willam
 37,Jiggly Caliente,4,6,8,BTM2,Float Your Boat,2012-03-05,Competition,Sewing,3,30,Queens,New York,jigglycalienteofficial,JigglyCaliente
 38,Phi Phi O'Hara,4,6,2,HIGH,Float Your Boat,2012-03-05,Competition,Sewing,4,25,Chicago,Illinois,phiphiohara,PhiPhiOhara
-40,Milan,4,6,9,ELIM,Float Your Boat,2012-03-05,Competition,Sewing,6,36,New York,New York,NA,NA
+40,Milan,4,6,9,ELIM,Float Your Boat,2012-03-05,Competition,Sewing,6,36,New York,New York,,
 42,DiDa Ritz,4,6,6,LOW,Float Your Boat,2012-03-05,Competition,Sewing,8,25,Chicago,Illinois,didaswag,MissDidaRitz
 45,Chad Michaels,4,6,2,SAFE,Float Your Boat,2012-03-05,Competition,Sewing,11,40,San Diego,California,chadmichaelsallstar,ChadMichaels1
 46,Sharon Needles,4,6,1,SAFE,Float Your Boat,2012-03-05,Competition,Sewing,12,29,Pittsburgh,Pennsylvania,sharonneedlespgh,SHARON_NEEDLES
@@ -339,22 +339,22 @@ contestant_id,contestant_name,season_number,episode_number,season_outcome,episod
 45,Chad Michaels,4,11,2,BTM2,The Fabulous Bitch Ball,2012-04-09,Competition,Ball,11,40,San Diego,California,chadmichaelsallstar,ChadMichaels1
 46,Sharon Needles,4,11,1,WIN,The Fabulous Bitch Ball,2012-04-09,Competition,Ball,12,29,Pittsburgh,Pennsylvania,sharonneedlespgh,SHARON_NEEDLES
 47,Latrice Royale,4,11,4,ELIM,The Fabulous Bitch Ball,2012-04-09,Competition,Ball,13,39,South Beach,Florida,latriceroyale,LatriceRoyale
-38,Phi Phi O'Hara,4,13,2,SAFE,The Final Three,2012-04-23,Finale,NA,4,25,Chicago,Illinois,phiphiohara,PhiPhiOhara
-45,Chad Michaels,4,13,2,SAFE,The Final Three,2012-04-23,Finale,NA,11,40,San Diego,California,chadmichaelsallstar,ChadMichaels1
-46,Sharon Needles,4,13,1,SAFE,The Final Three,2012-04-23,Finale,NA,12,29,Pittsburgh,Pennsylvania,sharonneedlespgh,SHARON_NEEDLES
-35,Willam,4,14,7,Guest,Reunited,2012-04-30,Reunion,NA,1,29,Los Angeles,California,willam,willam
-36,Lashauwn Beyond,4,14,12,Guest,Reunited,2012-04-30,Reunion,NA,2,21,Fort Lauderdale,Florida,lashauwnbeyond,LashauwnBeyond
-37,Jiggly Caliente,4,14,8,Guest,Reunited,2012-04-30,Reunion,NA,3,30,Queens,New York,jigglycalienteofficial,JigglyCaliente
-38,Phi Phi O'Hara,4,14,2,Runner-up,Reunited,2012-04-30,Reunion,NA,4,25,Chicago,Illinois,phiphiohara,PhiPhiOhara
-39,Madame LaQueer,4,14,10,Guest,Reunited,2012-04-30,Reunion,NA,5,29,Carolina,Puerto Rico,ditisnietmilan,MadameLaQueer
-40,Milan,4,14,9,Guest,Reunited,2012-04-30,Reunion,NA,6,36,New York,New York,NA,NA
-41,Alisa Summers,4,14,13,Guest,Reunited,2012-04-30,Reunion,NA,7,23,Tampa,Florida,NA,NA
-42,DiDa Ritz,4,14,6,Guest,Reunited,2012-04-30,Reunion,NA,8,25,Chicago,Illinois,didaswag,MissDidaRitz
-43,The Princess,4,14,11,Guest,Reunited,2012-04-30,Reunion,NA,9,31,Chicago,Illinois,thedragprincess,TheDragPrincess
-44,Kenya Michaels,4,14,5,Guest,Reunited,2012-04-30,Reunion,NA,10,21,Dorado,Puerto Rico,realkenyamichaels,KenyaMichaels
-45,Chad Michaels,4,14,2,Runner-up,Reunited,2012-04-30,Reunion,NA,11,40,San Diego,California,chadmichaelsallstar,ChadMichaels1
-46,Sharon Needles,4,14,1,Winner,Reunited,2012-04-30,Reunion,NA,12,29,Pittsburgh,Pennsylvania,sharonneedlespgh,SHARON_NEEDLES
-47,Latrice Royale,4,14,4,Miss C,Reunited,2012-04-30,Reunion,NA,13,39,South Beach,Florida,latriceroyale,LatriceRoyale
+38,Phi Phi O'Hara,4,13,2,SAFE,The Final Three,2012-04-23,Finale,,4,25,Chicago,Illinois,phiphiohara,PhiPhiOhara
+45,Chad Michaels,4,13,2,SAFE,The Final Three,2012-04-23,Finale,,11,40,San Diego,California,chadmichaelsallstar,ChadMichaels1
+46,Sharon Needles,4,13,1,SAFE,The Final Three,2012-04-23,Finale,,12,29,Pittsburgh,Pennsylvania,sharonneedlespgh,SHARON_NEEDLES
+35,Willam,4,14,7,Guest,Reunited,2012-04-30,Reunion,,1,29,Los Angeles,California,willam,willam
+36,Lashauwn Beyond,4,14,12,Guest,Reunited,2012-04-30,Reunion,,2,21,Fort Lauderdale,Florida,lashauwnbeyond,LashauwnBeyond
+37,Jiggly Caliente,4,14,8,Guest,Reunited,2012-04-30,Reunion,,3,30,Queens,New York,jigglycalienteofficial,JigglyCaliente
+38,Phi Phi O'Hara,4,14,2,Runner-up,Reunited,2012-04-30,Reunion,,4,25,Chicago,Illinois,phiphiohara,PhiPhiOhara
+39,Madame LaQueer,4,14,10,Guest,Reunited,2012-04-30,Reunion,,5,29,Carolina,Puerto Rico,ditisnietmilan,MadameLaQueer
+40,Milan,4,14,9,Guest,Reunited,2012-04-30,Reunion,,6,36,New York,New York,,
+41,Alisa Summers,4,14,13,Guest,Reunited,2012-04-30,Reunion,,7,23,Tampa,Florida,,
+42,DiDa Ritz,4,14,6,Guest,Reunited,2012-04-30,Reunion,,8,25,Chicago,Illinois,didaswag,MissDidaRitz
+43,The Princess,4,14,11,Guest,Reunited,2012-04-30,Reunion,,9,31,Chicago,Illinois,thedragprincess,TheDragPrincess
+44,Kenya Michaels,4,14,5,Guest,Reunited,2012-04-30,Reunion,,10,21,Dorado,Puerto Rico,realkenyamichaels,KenyaMichaels
+45,Chad Michaels,4,14,2,Runner-up,Reunited,2012-04-30,Reunion,,11,40,San Diego,California,chadmichaelsallstar,ChadMichaels1
+46,Sharon Needles,4,14,1,Winner,Reunited,2012-04-30,Reunion,,12,29,Pittsburgh,Pennsylvania,sharonneedlespgh,SHARON_NEEDLES
+47,Latrice Royale,4,14,4,Miss C,Reunited,2012-04-30,Reunion,,13,39,South Beach,Florida,latriceroyale,LatriceRoyale
 48,Detox,5,1,4,SAFE,RuPaullywood or Bust,2013-01-28,Competition,Sewing,1,27,Los Angeles,California,theonlydetox,TheOnlyDetox
 49,Roxxxy Andrews,5,1,2,WIN,RuPaullywood or Bust,2013-01-28,Competition,Sewing,2,28,Orlando,Florida,roxxxyandrews,RoxxxyAndrews
 50,Jade Jolie,5,1,8,LOW,RuPaullywood or Bust,2013-01-28,Competition,Sewing,3,25,Gainesville,Florida,missjadejolie,QueenJadeJolie
@@ -454,20 +454,20 @@ contestant_id,contestant_name,season_number,episode_number,season_outcome,episod
 49,Roxxxy Andrews,5,12,2,SAFE,"The Final Three, Hunty",2013-04-22,Competition,Music Video,2,28,Orlando,Florida,roxxxyandrews,RoxxxyAndrews
 53,Jinkx Monsoon,5,12,1,SAFE,"The Final Three, Hunty",2013-04-22,Competition,Music Video,6,24,Seattle,Washington,thejinkx,JinkxMonsoon
 56,Alaska,5,12,2,SAFE,"The Final Three, Hunty",2013-04-22,Competition,Music Video,9,27,Pittsburgh,Pennsylvania,theonlyalaska5000,Alaska5000
-48,Detox,5,14,4,Guest,Reunited!,2013-05-06,Reunion,NA,1,27,Los Angeles,California,theonlydetox,TheOnlyDetox
-49,Roxxxy Andrews,5,14,2,Runner-up,Reunited!,2013-05-06,Reunion,NA,2,28,Orlando,Florida,roxxxyandrews,RoxxxyAndrews
-50,Jade Jolie,5,14,8,Guest,Reunited!,2013-05-06,Reunion,NA,3,25,Gainesville,Florida,missjadejolie,QueenJadeJolie
-51,Serena ChaCha,5,14,13,Guest,Reunited!,2013-05-06,Reunion,NA,4,21,Tallahassee,Florida,myron.morgan,SerenaChaCha
-52,Alyssa Edwards,5,14,6,Guest,Reunited!,2013-05-06,Reunion,NA,5,32,Mesquite,Texas,alyssaedwards_1,AlyssaEdwards_1
-53,Jinkx Monsoon,5,14,1,Winner,Reunited!,2013-05-06,Reunion,NA,6,24,Seattle,Washington,thejinkx,JinkxMonsoon
-54,Penny Tration,5,14,14,Guest,Reunited!,2013-05-06,Reunion,NA,7,39,Cincinnati,Ohio,misspennytration,PennyTration
-55,Vivienne Pinay,5,14,10,Guest,Reunited!,2013-05-06,Reunion,NA,8,26,New York,New York,viviennepinay,ViviennePinay
-56,Alaska,5,14,2,Runner-up,Reunited!,2013-05-06,Reunion,NA,9,27,Pittsburgh,Pennsylvania,theonlyalaska5000,Alaska5000
-57,Honey Mahogany,5,14,10,Guest,Reunited!,2013-05-06,Reunion,NA,10,29,San Francisco,California,honeymahogany,honeymahogany
-58,Ivy Winters,5,14,7,Miss C,Reunited!,2013-05-06,Reunion,NA,11,22,Greenville,Michigan,ivy_winters,Ivy_Winters
-59,Monica Beverly Hillz,5,14,12,Guest,Reunited!,2013-05-06,Reunion,NA,12,27,Owensboro,Kentucky,monicabhillz,MonicaBHillz
-60,Lineysha Sparx,5,14,9,Guest,Reunited!,2013-05-06,Reunion,NA,13,24,San Juan,Puerto Rico,lineyshasparx,LineyshaSparx
-61,Coco Montrese,5,14,5,Guest,Reunited!,2013-05-06,Reunion,NA,14,37,Las Vegas,Nevada,theonlycocomontrese,cocomontrese
+48,Detox,5,14,4,Guest,Reunited!,2013-05-06,Reunion,,1,27,Los Angeles,California,theonlydetox,TheOnlyDetox
+49,Roxxxy Andrews,5,14,2,Runner-up,Reunited!,2013-05-06,Reunion,,2,28,Orlando,Florida,roxxxyandrews,RoxxxyAndrews
+50,Jade Jolie,5,14,8,Guest,Reunited!,2013-05-06,Reunion,,3,25,Gainesville,Florida,missjadejolie,QueenJadeJolie
+51,Serena ChaCha,5,14,13,Guest,Reunited!,2013-05-06,Reunion,,4,21,Tallahassee,Florida,myron.morgan,SerenaChaCha
+52,Alyssa Edwards,5,14,6,Guest,Reunited!,2013-05-06,Reunion,,5,32,Mesquite,Texas,alyssaedwards_1,AlyssaEdwards_1
+53,Jinkx Monsoon,5,14,1,Winner,Reunited!,2013-05-06,Reunion,,6,24,Seattle,Washington,thejinkx,JinkxMonsoon
+54,Penny Tration,5,14,14,Guest,Reunited!,2013-05-06,Reunion,,7,39,Cincinnati,Ohio,misspennytration,PennyTration
+55,Vivienne Pinay,5,14,10,Guest,Reunited!,2013-05-06,Reunion,,8,26,New York,New York,viviennepinay,ViviennePinay
+56,Alaska,5,14,2,Runner-up,Reunited!,2013-05-06,Reunion,,9,27,Pittsburgh,Pennsylvania,theonlyalaska5000,Alaska5000
+57,Honey Mahogany,5,14,10,Guest,Reunited!,2013-05-06,Reunion,,10,29,San Francisco,California,honeymahogany,honeymahogany
+58,Ivy Winters,5,14,7,Miss C,Reunited!,2013-05-06,Reunion,,11,22,Greenville,Michigan,ivy_winters,Ivy_Winters
+59,Monica Beverly Hillz,5,14,12,Guest,Reunited!,2013-05-06,Reunion,,12,27,Owensboro,Kentucky,monicabhillz,MonicaBHillz
+60,Lineysha Sparx,5,14,9,Guest,Reunited!,2013-05-06,Reunion,,13,24,San Juan,Puerto Rico,lineyshasparx,LineyshaSparx
+61,Coco Montrese,5,14,5,Guest,Reunited!,2013-05-06,Reunion,,14,37,Las Vegas,Nevada,theonlycocomontrese,cocomontrese
 62,Adore Delano,6,1,2,LOW,RuPauls Big Opening,2014-02-24,Competition,Sewing,1,23,Azusa,California,adoredelano,AdoreDelano
 63,BenDeLaCreme,6,1,5,WIN,RuPauls Big Opening,2014-02-24,Competition,Sewing,2,31,Seattle,Washington,bendelacreme,bendelacreme
 64,Gia Gunn,6,1,10,SAFE,RuPauls Big Opening,2014-02-24,Competition,Sewing,3,23,Chicago,Illinois,gia_gunn,GiaGunn
@@ -562,27 +562,27 @@ contestant_id,contestant_name,season_number,episode_number,season_outcome,episod
 69,Bianca Del Rio,6,12,1,SAFE,Sissy That Walk!,2014-05-05,Competition,Music Video,8,37,New Orleans,Louisiana,thebiancadelrio,TheBiancaDelRio
 74,Courtney Act,6,12,2,SAFE,Sissy That Walk!,2014-05-05,Competition,Music Video,13,31,West Hollywood,California,courtneyact,courtneyact
 75,Darienne Lake,6,12,4,ELIM,Sissy That Walk!,2014-05-05,Competition,Music Video,14,41,Rochester,New York,dariennelake,dariennelake
-62,Adore Delano,6,14,2,Runner-up,The Finale,2014-05-19,Finale,NA,1,23,Azusa,California,adoredelano,AdoreDelano
-63,BenDeLaCreme,6,14,5,Miss C,The Finale,2014-05-19,Finale,NA,2,31,Seattle,Washington,bendelacreme,bendelacreme
-64,Gia Gunn,6,14,10,Guest,The Finale,2014-05-19,Finale,NA,3,23,Chicago,Illinois,gia_gunn,GiaGunn
-65,Laganja Estranja,6,14,8,Guest,The Finale,2014-05-19,Finale,NA,4,24,Van Nuys,California,laganjaestranja,LaganjaEstranja
-66,April Carrión,6,14,11,Guest,The Finale,2014-05-19,Finale,NA,5,24,Guaynabo,Puerto Rico,aprilcarrion,ApriLcarrion
-67,Kelly Mantle,6,14,13,Guest,The Finale,2014-05-19,Finale,NA,6,36,Los Angeles,California,kellymantle,thekellymantle
-68,Vivacious,6,14,12,Guest,The Finale,2014-05-19,Finale,NA,7,40,New York,New York,vivaciousnyc,VivaciousNYC
-69,Bianca Del Rio,6,14,1,Winner,The Finale,2014-05-19,Finale,NA,8,37,New Orleans,Louisiana,thebiancadelrio,TheBiancaDelRio
-70,Trinity K. Bonet,6,14,7,Guest,The Finale,2014-05-19,Finale,NA,9,22,Atlanta,Georgia,trinitykbonet,trinitykbonet
-71,Joslyn Fox,6,14,6,Guest,The Finale,2014-05-19,Finale,NA,10,26,Worcester,Massachusetts,joslynfox,Joslyn_Fox
-72,Milk,6,14,9,Guest,The Finale,2014-05-19,Finale,NA,11,25,New York,New York,bigandmilky,bigandmilky
-73,Magnolia Crawford,6,14,13,Guest,The Finale,2014-05-19,Finale,NA,12,28,Seattle,Washington,magnoliaisme,magnoliaisme
-74,Courtney Act,6,14,2,Runner-up,The Finale,2014-05-19,Finale,NA,13,31,West Hollywood,California,courtneyact,courtneyact
-75,Darienne Lake,6,14,4,Guest,The Finale,2014-05-19,Finale,NA,14,41,Rochester,New York,dariennelake,dariennelake
+62,Adore Delano,6,14,2,Runner-up,The Finale,2014-05-19,Finale,,1,23,Azusa,California,adoredelano,AdoreDelano
+63,BenDeLaCreme,6,14,5,Miss C,The Finale,2014-05-19,Finale,,2,31,Seattle,Washington,bendelacreme,bendelacreme
+64,Gia Gunn,6,14,10,Guest,The Finale,2014-05-19,Finale,,3,23,Chicago,Illinois,gia_gunn,GiaGunn
+65,Laganja Estranja,6,14,8,Guest,The Finale,2014-05-19,Finale,,4,24,Van Nuys,California,laganjaestranja,LaganjaEstranja
+66,April Carrión,6,14,11,Guest,The Finale,2014-05-19,Finale,,5,24,Guaynabo,Puerto Rico,aprilcarrion,ApriLcarrion
+67,Kelly Mantle,6,14,13,Guest,The Finale,2014-05-19,Finale,,6,36,Los Angeles,California,kellymantle,thekellymantle
+68,Vivacious,6,14,12,Guest,The Finale,2014-05-19,Finale,,7,40,New York,New York,vivaciousnyc,VivaciousNYC
+69,Bianca Del Rio,6,14,1,Winner,The Finale,2014-05-19,Finale,,8,37,New Orleans,Louisiana,thebiancadelrio,TheBiancaDelRio
+70,Trinity K. Bonet,6,14,7,Guest,The Finale,2014-05-19,Finale,,9,22,Atlanta,Georgia,trinitykbonet,trinitykbonet
+71,Joslyn Fox,6,14,6,Guest,The Finale,2014-05-19,Finale,,10,26,Worcester,Massachusetts,joslynfox,Joslyn_Fox
+72,Milk,6,14,9,Guest,The Finale,2014-05-19,Finale,,11,25,New York,New York,bigandmilky,bigandmilky
+73,Magnolia Crawford,6,14,13,Guest,The Finale,2014-05-19,Finale,,12,28,Seattle,Washington,magnoliaisme,magnoliaisme
+74,Courtney Act,6,14,2,Runner-up,The Finale,2014-05-19,Finale,,13,31,West Hollywood,California,courtneyact,courtneyact
+75,Darienne Lake,6,14,4,Guest,The Finale,2014-05-19,Finale,,14,41,Rochester,New York,dariennelake,dariennelake
 76,Miss Fame,7,1,7,HIGH,Born Naked,2015-03-02,Competition,Sewing,1,29,New York,New York,missfamenyc,MissFameNYC
 77,Ginger Minj,7,1,2,SAFE,Born Naked,2015-03-02,Competition,Sewing,2,29,Orlando,Florida,gingerminj,TheGingerMinj
 78,Jaidynn Diore Fierce,7,1,8,SAFE,Born Naked,2015-03-02,Competition,Sewing,3,25,Nashville,Tennessee,jaidynnfierce,jaidynnfierce
 79,Violet Chachki,7,1,1,WIN,Born Naked,2015-03-02,Competition,Sewing,4,22,Atlanta,Georgia,violetchachki,VioletChachki
 80,Max,7,1,9,SAFE,Born Naked,2015-03-02,Competition,Sewing,5,22,Hudson,Wisconsin,maxcollective,MAXcollective
 81,Katya,7,1,5,SAFE,Born Naked,2015-03-02,Competition,Sewing,6,32,Boston,Massachusetts,katya_zamo,katya_zamo
-82,Jasmine Masters,7,1,12,LOW,Born Naked,2015-03-02,Competition,Sewing,7,37,Los Angeles,California,msjasminemasters,NA
+82,Jasmine Masters,7,1,12,LOW,Born Naked,2015-03-02,Competition,Sewing,7,37,Los Angeles,California,msjasminemasters,
 83,Mrs. Kasha Davis,7,1,11,SAFE,Born Naked,2015-03-02,Competition,Sewing,8,43,Rochester,New York,mrskashadavis,KashaDavis
 84,Trixie Mattel,7,1,6,SAFE,Born Naked,2015-03-02,Competition,Sewing,9,24,Milwaukee,Wisconsin,trixiemattel,trixiemattel
 85,Kandy Ho,7,1,10,BTM2,Born Naked,2015-03-02,Competition,Sewing,10,28,Cayey,Puerto Rico,ho_kandy,kandy_ho
@@ -596,7 +596,7 @@ contestant_id,contestant_name,season_number,episode_number,season_outcome,episod
 79,Violet Chachki,7,2,1,HIGH,Glamazonian Airways,2015-03-09,Competition,Lipsync,4,22,Atlanta,Georgia,violetchachki,VioletChachki
 80,Max,7,2,9,SAFE,Glamazonian Airways,2015-03-09,Competition,Lipsync,5,22,Hudson,Wisconsin,maxcollective,MAXcollective
 81,Katya,7,2,5,BTM2,Glamazonian Airways,2015-03-09,Competition,Lipsync,6,32,Boston,Massachusetts,katya_zamo,katya_zamo
-82,Jasmine Masters,7,2,12,SAFE,Glamazonian Airways,2015-03-09,Competition,Lipsync,7,37,Los Angeles,California,msjasminemasters,NA
+82,Jasmine Masters,7,2,12,SAFE,Glamazonian Airways,2015-03-09,Competition,Lipsync,7,37,Los Angeles,California,msjasminemasters,
 83,Mrs. Kasha Davis,7,2,11,HIGH,Glamazonian Airways,2015-03-09,Competition,Lipsync,8,43,Rochester,New York,mrskashadavis,KashaDavis
 84,Trixie Mattel,7,2,6,SAFE,Glamazonian Airways,2015-03-09,Competition,Lipsync,9,24,Milwaukee,Wisconsin,trixiemattel,trixiemattel
 85,Kandy Ho,7,2,10,SAFE,Glamazonian Airways,2015-03-09,Competition,Lipsync,10,28,Cayey,Puerto Rico,ho_kandy,kandy_ho
@@ -609,7 +609,7 @@ contestant_id,contestant_name,season_number,episode_number,season_outcome,episod
 79,Violet Chachki,7,3,1,SAFE,ShakesQueer,2015-03-16,Competition,Acting,4,22,Atlanta,Georgia,violetchachki,VioletChachki
 80,Max,7,3,9,WIN,ShakesQueer,2015-03-16,Competition,Acting,5,22,Hudson,Wisconsin,maxcollective,MAXcollective
 81,Katya,7,3,5,SAFE,ShakesQueer,2015-03-16,Competition,Acting,6,32,Boston,Massachusetts,katya_zamo,katya_zamo
-82,Jasmine Masters,7,3,12,ELIM,ShakesQueer,2015-03-16,Competition,Acting,7,37,Los Angeles,California,msjasminemasters,NA
+82,Jasmine Masters,7,3,12,ELIM,ShakesQueer,2015-03-16,Competition,Acting,7,37,Los Angeles,California,msjasminemasters,
 83,Mrs. Kasha Davis,7,3,11,HIGH,ShakesQueer,2015-03-16,Competition,Acting,8,43,Rochester,New York,mrskashadavis,KashaDavis
 84,Trixie Mattel,7,3,6,HIGH,ShakesQueer,2015-03-16,Competition,Acting,9,24,Milwaukee,Wisconsin,trixiemattel,trixiemattel
 85,Kandy Ho,7,3,10,SAFE,ShakesQueer,2015-03-16,Competition,Acting,10,28,Cayey,Puerto Rico,ho_kandy,kandy_ho
@@ -659,7 +659,7 @@ contestant_id,contestant_name,season_number,episode_number,season_outcome,episod
 79,Violet Chachki,7,8,1,HIGH,Conjoined Queens,2015-04-20,Competition,Makeover,4,22,Atlanta,Georgia,violetchachki,VioletChachki
 80,Max,7,8,9,OUT,Conjoined Queens,2015-04-20,Competition,Makeover,5,22,Hudson,Wisconsin,maxcollective,MAXcollective
 81,Katya,7,8,5,HIGH,Conjoined Queens,2015-04-20,Competition,Makeover,6,32,Boston,Massachusetts,katya_zamo,katya_zamo
-82,Jasmine Masters,7,8,12,OUT,Conjoined Queens,2015-04-20,Competition,Makeover,7,37,Los Angeles,California,msjasminemasters,NA
+82,Jasmine Masters,7,8,12,OUT,Conjoined Queens,2015-04-20,Competition,Makeover,7,37,Los Angeles,California,msjasminemasters,
 83,Mrs. Kasha Davis,7,8,11,OUT,Conjoined Queens,2015-04-20,Competition,Makeover,8,43,Rochester,New York,mrskashadavis,KashaDavis
 84,Trixie Mattel,7,8,6,WIN,Conjoined Queens,2015-04-20,Competition,Makeover,9,24,Milwaukee,Wisconsin,trixiemattel,trixiemattel
 85,Kandy Ho,7,8,10,OUT,Conjoined Queens,2015-04-20,Competition,Makeover,10,28,Cayey,Puerto Rico,ho_kandy,kandy_ho
@@ -689,20 +689,20 @@ contestant_id,contestant_name,season_number,episode_number,season_outcome,episod
 79,Violet Chachki,7,12,1,SAFE,And The Rest Is Drag,2015-05-18,Competition,Music Video,4,22,Atlanta,Georgia,violetchachki,VioletChachki
 86,Pearl,7,12,2,SAFE,And The Rest Is Drag,2015-05-18,Competition,Music Video,11,23,Brooklyn,New York,pearliaison,pearliaison
 87,Kennedy Davenport,7,12,4,ELIM,And The Rest Is Drag,2015-05-18,Competition,Music Video,12,33,Dallas,Texas,kennedyddoftx,kennedyddoftx
-76,Miss Fame,7,14,7,Guest,The Grand Finale,2015-06-01,Finale,NA,1,29,New York,New York,missfamenyc,MissFameNYC
-77,Ginger Minj,7,14,2,Runner-up,The Grand Finale,2015-06-01,Finale,NA,2,29,Orlando,Florida,gingerminj,TheGingerMinj
-78,Jaidynn Diore Fierce,7,14,8,Guest,The Grand Finale,2015-06-01,Finale,NA,3,25,Nashville,Tennessee,jaidynnfierce,jaidynnfierce
-79,Violet Chachki,7,14,1,Winner,The Grand Finale,2015-06-01,Finale,NA,4,22,Atlanta,Georgia,violetchachki,VioletChachki
-80,Max,7,14,9,Guest,The Grand Finale,2015-06-01,Finale,NA,5,22,Hudson,Wisconsin,maxcollective,MAXcollective
-81,Katya,7,14,5,Miss C,The Grand Finale,2015-06-01,Finale,NA,6,32,Boston,Massachusetts,katya_zamo,katya_zamo
-82,Jasmine Masters,7,14,12,Guest,The Grand Finale,2015-06-01,Finale,NA,7,37,Los Angeles,California,msjasminemasters,NA
-83,Mrs. Kasha Davis,7,14,11,Guest,The Grand Finale,2015-06-01,Finale,NA,8,43,Rochester,New York,mrskashadavis,KashaDavis
-84,Trixie Mattel,7,14,6,Guest,The Grand Finale,2015-06-01,Finale,NA,9,24,Milwaukee,Wisconsin,trixiemattel,trixiemattel
-85,Kandy Ho,7,14,10,Guest,The Grand Finale,2015-06-01,Finale,NA,10,28,Cayey,Puerto Rico,ho_kandy,kandy_ho
-86,Pearl,7,14,2,Runner-up,The Grand Finale,2015-06-01,Finale,NA,11,23,Brooklyn,New York,pearliaison,pearliaison
-87,Kennedy Davenport,7,14,4,Guest,The Grand Finale,2015-06-01,Finale,NA,12,33,Dallas,Texas,kennedyddoftx,kennedyddoftx
-88,Sasha Belle,7,14,13,Guest,The Grand Finale,2015-06-01,Finale,NA,13,28,Iowa City,Iowa,sashabelley,SashaBelle3
-89,Tempest DuJour,7,14,14,Guest,The Grand Finale,2015-06-01,Finale,NA,14,46,Tucson,Arizona,tempestdujour,TempestDujour
+76,Miss Fame,7,14,7,Guest,The Grand Finale,2015-06-01,Finale,,1,29,New York,New York,missfamenyc,MissFameNYC
+77,Ginger Minj,7,14,2,Runner-up,The Grand Finale,2015-06-01,Finale,,2,29,Orlando,Florida,gingerminj,TheGingerMinj
+78,Jaidynn Diore Fierce,7,14,8,Guest,The Grand Finale,2015-06-01,Finale,,3,25,Nashville,Tennessee,jaidynnfierce,jaidynnfierce
+79,Violet Chachki,7,14,1,Winner,The Grand Finale,2015-06-01,Finale,,4,22,Atlanta,Georgia,violetchachki,VioletChachki
+80,Max,7,14,9,Guest,The Grand Finale,2015-06-01,Finale,,5,22,Hudson,Wisconsin,maxcollective,MAXcollective
+81,Katya,7,14,5,Miss C,The Grand Finale,2015-06-01,Finale,,6,32,Boston,Massachusetts,katya_zamo,katya_zamo
+82,Jasmine Masters,7,14,12,Guest,The Grand Finale,2015-06-01,Finale,,7,37,Los Angeles,California,msjasminemasters,
+83,Mrs. Kasha Davis,7,14,11,Guest,The Grand Finale,2015-06-01,Finale,,8,43,Rochester,New York,mrskashadavis,KashaDavis
+84,Trixie Mattel,7,14,6,Guest,The Grand Finale,2015-06-01,Finale,,9,24,Milwaukee,Wisconsin,trixiemattel,trixiemattel
+85,Kandy Ho,7,14,10,Guest,The Grand Finale,2015-06-01,Finale,,10,28,Cayey,Puerto Rico,ho_kandy,kandy_ho
+86,Pearl,7,14,2,Runner-up,The Grand Finale,2015-06-01,Finale,,11,23,Brooklyn,New York,pearliaison,pearliaison
+87,Kennedy Davenport,7,14,4,Guest,The Grand Finale,2015-06-01,Finale,,12,33,Dallas,Texas,kennedyddoftx,kennedyddoftx
+88,Sasha Belle,7,14,13,Guest,The Grand Finale,2015-06-01,Finale,,13,28,Iowa City,Iowa,sashabelley,SashaBelle3
+89,Tempest DuJour,7,14,14,Guest,The Grand Finale,2015-06-01,Finale,,14,46,Tucson,Arizona,tempestdujour,TempestDujour
 90,Naomi Smalls,8,1,2,SAFE,Keeping it 100!,2016-03-07,Competition,Sewing,1,21,Redlands,California,naomismalls,naomismallsduh
 91,Cynthia Lee Fontaine,8,1,10,SAFE,Keeping it 100!,2016-03-07,Competition,Sewing,2,34,Austin,Texas,cynthialeefontaine,lee_fontaine
 92,Dax ExclamationPoint,8,1,11,SAFE,Keeping it 100!,2016-03-07,Competition,Sewing,3,31,Savannah,Georgia,daxclamation,Daxclamation
@@ -775,18 +775,18 @@ contestant_id,contestant_name,season_number,episode_number,season_outcome,episod
 96,Kim Chi,8,9,2,SAFE,The Realness,2016-05-02,Competition,Music Video,7,27,Chicago,Illinois,kimchi_chic,KimChi_Chic
 98,Bob the Drag Queen,8,9,1,SAFE,The Realness,2016-05-02,Competition,Music Video,9,29,New York,New York,bobthedragqueen,thatonequeen
 100,Chi Chi DeVayne,8,9,4,ELIM,The Realness,2016-05-02,Competition,Music Video,11,29,Shreveport,Louisiana,chichidevayneofficial,ChiChiDeVayne
-90,Naomi Smalls,8,10,2,Runner-up,Grand Finale,2016-05-16,Finale,NA,1,21,Redlands,California,naomismalls,naomismallsduh
-91,Cynthia Lee Fontaine,8,10,10,Miss C,Grand Finale,2016-05-16,Finale,NA,2,34,Austin,Texas,cynthialeefontaine,lee_fontaine
-92,Dax ExclamationPoint,8,10,11,Guest,Grand Finale,2016-05-16,Finale,NA,3,31,Savannah,Georgia,daxclamation,Daxclamation
-93,Naysha Lopez,8,10,9,Guest,Grand Finale,2016-05-16,Finale,NA,4,31,Chicago,Illinois,nayshalopez,nayshalopez
-94,Acid Betty,8,10,8,Guest,Grand Finale,2016-05-16,Finale,NA,5,37,Brooklyn,New York,acidbetty,acidbettyrocks
-95,Robbie Turner,8,10,7,Guest,Grand Finale,2016-05-16,Finale,NA,6,33,Seattle,Washington,therobbieturner,TheRobbieTurner
-96,Kim Chi,8,10,2,Runner-up,Grand Finale,2016-05-16,Finale,NA,7,27,Chicago,Illinois,kimchi_chic,KimChi_Chic
-97,Thorgy Thor,8,10,6,Guest,Grand Finale,2016-05-16,Finale,NA,8,31,Brooklyn,New York,thorgythor,ThorgyThor
-98,Bob the Drag Queen,8,10,1,Winner,Grand Finale,2016-05-16,Finale,NA,9,29,New York,New York,bobthedragqueen,thatonequeen
-99,Laila McQueen,8,10,11,Guest,Grand Finale,2016-05-16,Finale,NA,10,22,Gloucester,Massachusetts,misslailamcqueen,LailaMcQueen
-100,Chi Chi DeVayne,8,10,4,Guest,Grand Finale,2016-05-16,Finale,NA,11,29,Shreveport,Louisiana,chichidevayneofficial,ChiChiDeVayne
-101,Derrick Barry,8,10,5,Guest,Grand Finale,2016-05-16,Finale,NA,12,32,Las Vegas,Nevada,derrickbarry,DerrickBarry
+90,Naomi Smalls,8,10,2,Runner-up,Grand Finale,2016-05-16,Finale,,1,21,Redlands,California,naomismalls,naomismallsduh
+91,Cynthia Lee Fontaine,8,10,10,Miss C,Grand Finale,2016-05-16,Finale,,2,34,Austin,Texas,cynthialeefontaine,lee_fontaine
+92,Dax ExclamationPoint,8,10,11,Guest,Grand Finale,2016-05-16,Finale,,3,31,Savannah,Georgia,daxclamation,Daxclamation
+93,Naysha Lopez,8,10,9,Guest,Grand Finale,2016-05-16,Finale,,4,31,Chicago,Illinois,nayshalopez,nayshalopez
+94,Acid Betty,8,10,8,Guest,Grand Finale,2016-05-16,Finale,,5,37,Brooklyn,New York,acidbetty,acidbettyrocks
+95,Robbie Turner,8,10,7,Guest,Grand Finale,2016-05-16,Finale,,6,33,Seattle,Washington,therobbieturner,TheRobbieTurner
+96,Kim Chi,8,10,2,Runner-up,Grand Finale,2016-05-16,Finale,,7,27,Chicago,Illinois,kimchi_chic,KimChi_Chic
+97,Thorgy Thor,8,10,6,Guest,Grand Finale,2016-05-16,Finale,,8,31,Brooklyn,New York,thorgythor,ThorgyThor
+98,Bob the Drag Queen,8,10,1,Winner,Grand Finale,2016-05-16,Finale,,9,29,New York,New York,bobthedragqueen,thatonequeen
+99,Laila McQueen,8,10,11,Guest,Grand Finale,2016-05-16,Finale,,10,22,Gloucester,Massachusetts,misslailamcqueen,LailaMcQueen
+100,Chi Chi DeVayne,8,10,4,Guest,Grand Finale,2016-05-16,Finale,,11,29,Shreveport,Louisiana,chichidevayneofficial,ChiChiDeVayne
+101,Derrick Barry,8,10,5,Guest,Grand Finale,2016-05-16,Finale,,12,32,Las Vegas,Nevada,derrickbarry,DerrickBarry
 102,Peppermint,9,1,2,SAFE,Oh. My. Gaga!,2017-03-24,Competition,Runway,1,37,New York,New York,peppermint247,Peppermint247
 103,Valentina,9,1,7,SAFE,Oh. My. Gaga!,2017-03-24,Competition,Runway,2,25,Echo Park,California,allaboutvalentina,AllOfValentina
 104,Eureka,9,1,11,HIGH,Oh. My. Gaga!,2017-03-24,Competition,Runway,3,25,Johnson City,Tennessee,eurekaohara,eurekaohara
@@ -899,34 +899,34 @@ contestant_id,contestant_name,season_number,episode_number,season_outcome,episod
 107,Sasha Velour,9,12,1,SAFE,Category Is,2017-06-09,Competition,Music Video,6,29,Brooklyn,New York,sashavelour,sasha_velour
 109,Shea Couleé,9,12,3,SAFE,Category Is,2017-06-09,Competition,Music Video,8,27,Chicago,Illinois,sheacoulee,SheaCoulee
 110,Trinity Taylor,9,12,3,SAFE,Category Is,2017-06-09,Competition,Music Video,9,31,Orlando,Florida,trinitythetuck,TrinityTheTuck
-102,Peppermint,9,13,2,Guest,Reunited,2017-06-16,Reunion,NA,1,37,New York,New York,peppermint247,Peppermint247
-103,Valentina,9,13,7,Miss C,Reunited,2017-06-16,Reunion,NA,2,25,Echo Park,California,allaboutvalentina,AllOfValentina
-104,Eureka,9,13,11,Guest,Reunited,2017-06-16,Reunion,NA,3,25,Johnson City,Tennessee,eurekaohara,eurekaohara
-105,Charlie Hides,9,13,12,Guest,Reunited,2017-06-16,Reunion,NA,4,52,Boston,Massachusetts,charliehidestv,charliehidestv
-106,Farrah Moan,9,13,8,Guest,Reunited,2017-06-16,Reunion,NA,5,23,Las Vegas,Nevada,farrahrized,farrahrized
-107,Sasha Velour,9,13,1,Guest,Reunited,2017-06-16,Reunion,NA,6,29,Brooklyn,New York,sashavelour,sasha_velour
-108,Alexis Michelle,9,13,5,Guest,Reunited,2017-06-16,Reunion,NA,7,32,New York,New York,alexislives,AlexisLives
-109,Shea Couleé,9,13,3,Guest,Reunited,2017-06-16,Reunion,NA,8,27,Chicago,Illinois,sheacoulee,SheaCoulee
-110,Trinity Taylor,9,13,3,Guest,Reunited,2017-06-16,Reunion,NA,9,31,Orlando,Florida,trinitythetuck,TrinityTheTuck
-111,Kimora Blac,9,13,13,Guest,Reunited,2017-06-16,Reunion,NA,10,27,Las Vegas,Nevada,kimorablac,kimorablac
-112,Jaymes Mansfield,9,13,14,Guest,Reunited,2017-06-16,Reunion,NA,11,26,Milwaukee,Wisconsin,jaymesmansfield,JaymesMansfield
-113,Nina Bo'nina Brown,9,13,6,Guest,Reunited,2017-06-16,Reunion,NA,12,34,Riverdale,Georgia,nina_bonina_brown,atlsexyslim
-114,Aja,9,13,9,Guest,Reunited,2017-06-16,Reunion,NA,13,22,Brooklyn,New York,ajathekween,ajaqueen
-115,Cynthia Lee Fontaine,9,13,10,Guest,Reunited,2017-06-16,Reunion,NA,14,35,Austin,Texas,cynthialeefontaine,lee_fontaine
-102,Peppermint,9,14,2,Runner-up,Grand Finale,2017-06-23,Finale,NA,1,37,New York,New York,peppermint247,Peppermint247
-103,Valentina,9,14,7,Guest,Grand Finale,2017-06-23,Finale,NA,2,25,Echo Park,California,allaboutvalentina,AllOfValentina
-104,Eureka,9,14,11,Guest,Grand Finale,2017-06-23,Finale,NA,3,25,Johnson City,Tennessee,eurekaohara,eurekaohara
-105,Charlie Hides,9,14,12,Guest,Grand Finale,2017-06-23,Finale,NA,4,52,Boston,Massachusetts,charliehidestv,charliehidestv
-106,Farrah Moan,9,14,8,Guest,Grand Finale,2017-06-23,Finale,NA,5,23,Las Vegas,Nevada,farrahrized,farrahrized
-107,Sasha Velour,9,14,1,Winner,Grand Finale,2017-06-23,Finale,NA,6,29,Brooklyn,New York,sashavelour,sasha_velour
-108,Alexis Michelle,9,14,5,Guest,Grand Finale,2017-06-23,Finale,NA,7,32,New York,New York,alexislives,AlexisLives
-109,Shea Couleé,9,14,3,Eliminated,Grand Finale,2017-06-23,Finale,NA,8,27,Chicago,Illinois,sheacoulee,SheaCoulee
-110,Trinity Taylor,9,14,3,Eliminated,Grand Finale,2017-06-23,Finale,NA,9,31,Orlando,Florida,trinitythetuck,TrinityTheTuck
-111,Kimora Blac,9,14,13,Guest,Grand Finale,2017-06-23,Finale,NA,10,27,Las Vegas,Nevada,kimorablac,kimorablac
-112,Jaymes Mansfield,9,14,14,Guest,Grand Finale,2017-06-23,Finale,NA,11,26,Milwaukee,Wisconsin,jaymesmansfield,JaymesMansfield
-113,Nina Bo'nina Brown,9,14,6,Guest,Grand Finale,2017-06-23,Finale,NA,12,34,Riverdale,Georgia,nina_bonina_brown,atlsexyslim
-114,Aja,9,14,9,Guest,Grand Finale,2017-06-23,Finale,NA,13,22,Brooklyn,New York,ajathekween,ajaqueen
-115,Cynthia Lee Fontaine,9,14,10,Guest,Grand Finale,2017-06-23,Finale,NA,14,35,Austin,Texas,cynthialeefontaine,lee_fontaine
+102,Peppermint,9,13,2,Guest,Reunited,2017-06-16,Reunion,,1,37,New York,New York,peppermint247,Peppermint247
+103,Valentina,9,13,7,Miss C,Reunited,2017-06-16,Reunion,,2,25,Echo Park,California,allaboutvalentina,AllOfValentina
+104,Eureka,9,13,11,Guest,Reunited,2017-06-16,Reunion,,3,25,Johnson City,Tennessee,eurekaohara,eurekaohara
+105,Charlie Hides,9,13,12,Guest,Reunited,2017-06-16,Reunion,,4,52,Boston,Massachusetts,charliehidestv,charliehidestv
+106,Farrah Moan,9,13,8,Guest,Reunited,2017-06-16,Reunion,,5,23,Las Vegas,Nevada,farrahrized,farrahrized
+107,Sasha Velour,9,13,1,Guest,Reunited,2017-06-16,Reunion,,6,29,Brooklyn,New York,sashavelour,sasha_velour
+108,Alexis Michelle,9,13,5,Guest,Reunited,2017-06-16,Reunion,,7,32,New York,New York,alexislives,AlexisLives
+109,Shea Couleé,9,13,3,Guest,Reunited,2017-06-16,Reunion,,8,27,Chicago,Illinois,sheacoulee,SheaCoulee
+110,Trinity Taylor,9,13,3,Guest,Reunited,2017-06-16,Reunion,,9,31,Orlando,Florida,trinitythetuck,TrinityTheTuck
+111,Kimora Blac,9,13,13,Guest,Reunited,2017-06-16,Reunion,,10,27,Las Vegas,Nevada,kimorablac,kimorablac
+112,Jaymes Mansfield,9,13,14,Guest,Reunited,2017-06-16,Reunion,,11,26,Milwaukee,Wisconsin,jaymesmansfield,JaymesMansfield
+113,Nina Bo'nina Brown,9,13,6,Guest,Reunited,2017-06-16,Reunion,,12,34,Riverdale,Georgia,nina_bonina_brown,atlsexyslim
+114,Aja,9,13,9,Guest,Reunited,2017-06-16,Reunion,,13,22,Brooklyn,New York,ajathekween,ajaqueen
+115,Cynthia Lee Fontaine,9,13,10,Guest,Reunited,2017-06-16,Reunion,,14,35,Austin,Texas,cynthialeefontaine,lee_fontaine
+102,Peppermint,9,14,2,Runner-up,Grand Finale,2017-06-23,Finale,,1,37,New York,New York,peppermint247,Peppermint247
+103,Valentina,9,14,7,Guest,Grand Finale,2017-06-23,Finale,,2,25,Echo Park,California,allaboutvalentina,AllOfValentina
+104,Eureka,9,14,11,Guest,Grand Finale,2017-06-23,Finale,,3,25,Johnson City,Tennessee,eurekaohara,eurekaohara
+105,Charlie Hides,9,14,12,Guest,Grand Finale,2017-06-23,Finale,,4,52,Boston,Massachusetts,charliehidestv,charliehidestv
+106,Farrah Moan,9,14,8,Guest,Grand Finale,2017-06-23,Finale,,5,23,Las Vegas,Nevada,farrahrized,farrahrized
+107,Sasha Velour,9,14,1,Winner,Grand Finale,2017-06-23,Finale,,6,29,Brooklyn,New York,sashavelour,sasha_velour
+108,Alexis Michelle,9,14,5,Guest,Grand Finale,2017-06-23,Finale,,7,32,New York,New York,alexislives,AlexisLives
+109,Shea Couleé,9,14,3,Eliminated,Grand Finale,2017-06-23,Finale,,8,27,Chicago,Illinois,sheacoulee,SheaCoulee
+110,Trinity Taylor,9,14,3,Eliminated,Grand Finale,2017-06-23,Finale,,9,31,Orlando,Florida,trinitythetuck,TrinityTheTuck
+111,Kimora Blac,9,14,13,Guest,Grand Finale,2017-06-23,Finale,,10,27,Las Vegas,Nevada,kimorablac,kimorablac
+112,Jaymes Mansfield,9,14,14,Guest,Grand Finale,2017-06-23,Finale,,11,26,Milwaukee,Wisconsin,jaymesmansfield,JaymesMansfield
+113,Nina Bo'nina Brown,9,14,6,Guest,Grand Finale,2017-06-23,Finale,,12,34,Riverdale,Georgia,nina_bonina_brown,atlsexyslim
+114,Aja,9,14,9,Guest,Grand Finale,2017-06-23,Finale,,13,22,Brooklyn,New York,ajathekween,ajaqueen
+115,Cynthia Lee Fontaine,9,14,10,Guest,Grand Finale,2017-06-23,Finale,,14,35,Austin,Texas,cynthialeefontaine,lee_fontaine
 116,Eureka,10,1,2,SAFE,10s Across The Board,2018-03-22,Competition,Sewing,1,27,Johnson City,Tennessee,eurekaohara,eurekaohara
 117,Asia O'Hara,10,1,4,SAFE,10s Across The Board,2018-03-22,Competition,Sewing,2,35,Dallas,Texas,asiaoharaland,AsiaOharaLand
 118,Miz Cracker,10,1,5,HIGH,10s Across The Board,2018-03-22,Competition,Sewing,3,33,Harlem,New York,miz_cracker,miz_cracker
@@ -1032,34 +1032,34 @@ contestant_id,contestant_name,season_number,episode_number,season_outcome,episod
 117,Asia O'Hara,10,12,4,SAFE,American,2018-06-14,Competition,Music Video,2,35,Dallas,Texas,asiaoharaland,AsiaOharaLand
 122,Kameron Michaels,10,12,2,SAFE,American,2018-06-14,Competition,Music Video,7,31,Nashville,Tennessee,kameronmichaels,KameronMichaels
 129,Aquaria,10,12,1,SAFE,American,2018-06-14,Competition,Music Video,14,21,Brooklyn,New York,ageofaquaria,aquariaofficial
-116,Eureka,10,13,2,Guest,Queens Reunited,2018-06-21,Reunion,NA,1,27,Johnson City,Tennessee,eurekaohara,eurekaohara
-117,Asia O'Hara,10,13,4,Guest,Queens Reunited,2018-06-21,Reunion,NA,2,35,Dallas,Texas,asiaoharaland,AsiaOharaLand
-118,Miz Cracker,10,13,5,Guest,Queens Reunited,2018-06-21,Reunion,NA,3,33,Harlem,New York,miz_cracker,miz_cracker
-119,Yuhua Hamasaki,10,13,12,Guest,Queens Reunited,2018-06-21,Reunion,NA,4,27,New York,New York,yuhuahamasaki,YuhuaHamasaki
-120,Blair St. Clair,10,13,9,Guest,Queens Reunited,2018-06-21,Reunion,NA,5,22,Indianapolis,Indiana,blairst.clair,BlairStClair
-121,Monét X Change,10,13,6,Guest,Queens Reunited,2018-06-21,Reunion,NA,6,27,The Bronx,New York,monetxchange,monetxchange
-122,Kameron Michaels,10,13,2,Guest,Queens Reunited,2018-06-21,Reunion,NA,7,31,Nashville,Tennessee,kameronmichaels,KameronMichaels
-123,Mayhem Miller,10,13,10,Guest,Queens Reunited,2018-06-21,Reunion,NA,8,35,Riverside,California,theonlymayhem,TheOnlyMayhem
-124,Kalorie Karbdashian Williams,10,13,13,Guest,Queens Reunited,2018-06-21,Reunion,NA,9,27,Albuquerque,New Mexico,kalkarbdashianw,kalKARBdashianw
-125,Monique Heart,10,13,8,Guest,Queens Reunited,2018-06-21,Reunion,NA,10,31,Kansas City,Missouri,iammoniqueheart,IAmMoniqueHeart
-126,Dusty Ray Bottoms,10,13,11,Guest,Queens Reunited,2018-06-21,Reunion,NA,11,29,New York,New York,dustyray,DustyRayBottoms
-127,The Vixen,10,13,7,Guest,Queens Reunited,2018-06-21,Reunion,NA,12,26,Chicago,Illinois,thevixensworld,TheVixensworld
-128,Vanessa Vanjie Mateo,10,13,14,Guest,Queens Reunited,2018-06-21,Reunion,NA,13,25,Tampa,Florida,vanessavanjie,VanessaVanjie
-129,Aquaria,10,13,1,Guest,Queens Reunited,2018-06-21,Reunion,NA,14,21,Brooklyn,New York,ageofaquaria,aquariaofficial
-116,Eureka,10,14,2,Runner-up,Grand Finale,2018-06-28,Finale,NA,1,27,Johnson City,Tennessee,eurekaohara,eurekaohara
-117,Asia O'Hara,10,14,4,Eliminated,Grand Finale,2018-06-28,Finale,NA,2,35,Dallas,Texas,asiaoharaland,AsiaOharaLand
-118,Miz Cracker,10,14,5,Guest,Grand Finale,2018-06-28,Finale,NA,3,33,Harlem,New York,miz_cracker,miz_cracker
-119,Yuhua Hamasaki,10,14,12,Guest,Grand Finale,2018-06-28,Finale,NA,4,27,New York,New York,yuhuahamasaki,YuhuaHamasaki
-120,Blair St. Clair,10,14,9,Guest,Grand Finale,2018-06-28,Finale,NA,5,22,Indianapolis,Indiana,blairst.clair,BlairStClair
-121,Monét X Change,10,14,6,Miss C,Grand Finale,2018-06-28,Finale,NA,6,27,The Bronx,New York,monetxchange,monetxchange
-122,Kameron Michaels,10,14,2,Runner-up,Grand Finale,2018-06-28,Finale,NA,7,31,Nashville,Tennessee,kameronmichaels,KameronMichaels
-123,Mayhem Miller,10,14,10,Guest,Grand Finale,2018-06-28,Finale,NA,8,35,Riverside,California,theonlymayhem,TheOnlyMayhem
-124,Kalorie Karbdashian Williams,10,14,13,Guest,Grand Finale,2018-06-28,Finale,NA,9,27,Albuquerque,New Mexico,kalkarbdashianw,kalKARBdashianw
-125,Monique Heart,10,14,8,Guest,Grand Finale,2018-06-28,Finale,NA,10,31,Kansas City,Missouri,iammoniqueheart,IAmMoniqueHeart
-126,Dusty Ray Bottoms,10,14,11,Guest,Grand Finale,2018-06-28,Finale,NA,11,29,New York,New York,dustyray,DustyRayBottoms
-127,The Vixen,10,14,7,Guest,Grand Finale,2018-06-28,Finale,NA,12,26,Chicago,Illinois,thevixensworld,TheVixensworld
-128,Vanessa Vanjie Mateo,10,14,14,Guest,Grand Finale,2018-06-28,Finale,NA,13,25,Tampa,Florida,vanessavanjie,VanessaVanjie
-129,Aquaria,10,14,1,Winner,Grand Finale,2018-06-28,Finale,NA,14,21,Brooklyn,New York,ageofaquaria,aquariaofficial
+116,Eureka,10,13,2,Guest,Queens Reunited,2018-06-21,Reunion,,1,27,Johnson City,Tennessee,eurekaohara,eurekaohara
+117,Asia O'Hara,10,13,4,Guest,Queens Reunited,2018-06-21,Reunion,,2,35,Dallas,Texas,asiaoharaland,AsiaOharaLand
+118,Miz Cracker,10,13,5,Guest,Queens Reunited,2018-06-21,Reunion,,3,33,Harlem,New York,miz_cracker,miz_cracker
+119,Yuhua Hamasaki,10,13,12,Guest,Queens Reunited,2018-06-21,Reunion,,4,27,New York,New York,yuhuahamasaki,YuhuaHamasaki
+120,Blair St. Clair,10,13,9,Guest,Queens Reunited,2018-06-21,Reunion,,5,22,Indianapolis,Indiana,blairst.clair,BlairStClair
+121,Monét X Change,10,13,6,Guest,Queens Reunited,2018-06-21,Reunion,,6,27,The Bronx,New York,monetxchange,monetxchange
+122,Kameron Michaels,10,13,2,Guest,Queens Reunited,2018-06-21,Reunion,,7,31,Nashville,Tennessee,kameronmichaels,KameronMichaels
+123,Mayhem Miller,10,13,10,Guest,Queens Reunited,2018-06-21,Reunion,,8,35,Riverside,California,theonlymayhem,TheOnlyMayhem
+124,Kalorie Karbdashian Williams,10,13,13,Guest,Queens Reunited,2018-06-21,Reunion,,9,27,Albuquerque,New Mexico,kalkarbdashianw,kalKARBdashianw
+125,Monique Heart,10,13,8,Guest,Queens Reunited,2018-06-21,Reunion,,10,31,Kansas City,Missouri,iammoniqueheart,IAmMoniqueHeart
+126,Dusty Ray Bottoms,10,13,11,Guest,Queens Reunited,2018-06-21,Reunion,,11,29,New York,New York,dustyray,DustyRayBottoms
+127,The Vixen,10,13,7,Guest,Queens Reunited,2018-06-21,Reunion,,12,26,Chicago,Illinois,thevixensworld,TheVixensworld
+128,Vanessa Vanjie Mateo,10,13,14,Guest,Queens Reunited,2018-06-21,Reunion,,13,25,Tampa,Florida,vanessavanjie,VanessaVanjie
+129,Aquaria,10,13,1,Guest,Queens Reunited,2018-06-21,Reunion,,14,21,Brooklyn,New York,ageofaquaria,aquariaofficial
+116,Eureka,10,14,2,Runner-up,Grand Finale,2018-06-28,Finale,,1,27,Johnson City,Tennessee,eurekaohara,eurekaohara
+117,Asia O'Hara,10,14,4,Eliminated,Grand Finale,2018-06-28,Finale,,2,35,Dallas,Texas,asiaoharaland,AsiaOharaLand
+118,Miz Cracker,10,14,5,Guest,Grand Finale,2018-06-28,Finale,,3,33,Harlem,New York,miz_cracker,miz_cracker
+119,Yuhua Hamasaki,10,14,12,Guest,Grand Finale,2018-06-28,Finale,,4,27,New York,New York,yuhuahamasaki,YuhuaHamasaki
+120,Blair St. Clair,10,14,9,Guest,Grand Finale,2018-06-28,Finale,,5,22,Indianapolis,Indiana,blairst.clair,BlairStClair
+121,Monét X Change,10,14,6,Miss C,Grand Finale,2018-06-28,Finale,,6,27,The Bronx,New York,monetxchange,monetxchange
+122,Kameron Michaels,10,14,2,Runner-up,Grand Finale,2018-06-28,Finale,,7,31,Nashville,Tennessee,kameronmichaels,KameronMichaels
+123,Mayhem Miller,10,14,10,Guest,Grand Finale,2018-06-28,Finale,,8,35,Riverside,California,theonlymayhem,TheOnlyMayhem
+124,Kalorie Karbdashian Williams,10,14,13,Guest,Grand Finale,2018-06-28,Finale,,9,27,Albuquerque,New Mexico,kalkarbdashianw,kalKARBdashianw
+125,Monique Heart,10,14,8,Guest,Grand Finale,2018-06-28,Finale,,10,31,Kansas City,Missouri,iammoniqueheart,IAmMoniqueHeart
+126,Dusty Ray Bottoms,10,14,11,Guest,Grand Finale,2018-06-28,Finale,,11,29,New York,New York,dustyray,DustyRayBottoms
+127,The Vixen,10,14,7,Guest,Grand Finale,2018-06-28,Finale,,12,26,Chicago,Illinois,thevixensworld,TheVixensworld
+128,Vanessa Vanjie Mateo,10,14,14,Guest,Grand Finale,2018-06-28,Finale,,13,25,Tampa,Florida,vanessavanjie,VanessaVanjie
+129,Aquaria,10,14,1,Winner,Grand Finale,2018-06-28,Finale,,14,21,Brooklyn,New York,ageofaquaria,aquariaofficial
 130,Vanessa Vanjie Mateo,11,1,5,HIGH,Whatcha Unpackin?,2019-02-28,Competition,Sewing,1,26,Tampa,Florida,vanessavanjie,VanessaVanjie
 131,Nina West,11,1,6,LOW,Whatcha Unpackin?,2019-02-28,Competition,Sewing,2,39,Columbus,Ohio,ninawest,NinaWest
 132,Shuga Cain,11,1,7,SAFE,Whatcha Unpackin?,2019-02-28,Competition,Sewing,3,40,New York,New York,missshugacain,missshugacain
@@ -1184,33 +1184,33 @@ contestant_id,contestant_name,season_number,episode_number,season_outcome,episod
 138,Yvie Oddly,11,12,1,SAFE,Queens Everywhere,2019-05-16,Competition,Music Video,9,24,Denver,Colorado,oddlyyvie,oddlyyvie
 139,Silky Nutmeg Ganache,11,12,3,SAFE,Queens Everywhere,2019-05-16,Competition,Music Video,10,28,Chicago,Illinois,silkyganache,GanacheSilky
 140,Brooke Lynn Hytes,11,12,2,BTM2,Queens Everywhere,2019-05-16,Competition,Music Video,11,32,Nashville,Tennessee,bhytes,bhytes1
-130,Vanessa Vanjie Mateo,11,13,5,Guest,Reunited,2019-05-23,Reunion,NA,1,26,Tampa,Florida,vanessavanjie,VanessaVanjie
-131,Nina West,11,13,6,Guest,Reunited,2019-05-23,Reunion,NA,2,39,Columbus,Ohio,ninawest,NinaWest
-132,Shuga Cain,11,13,7,Guest,Reunited,2019-05-23,Reunion,NA,3,40,New York,New York,missshugacain,missshugacain
-133,Plastique Tiara,11,13,8,Guest,Reunited,2019-05-23,Reunion,NA,4,21,Southlake,Texas,plastiquetiara,plastiquetiara
-134,Mercedes Iman Diamond,11,13,12,Guest,Reunited,2019-05-23,Reunion,NA,5,31,Minneapolis,Minnesota,mercedesimandiamond,mercedesiman
-135,Scarlet Envy,11,13,10,Guest,Reunited,2019-05-23,Reunion,NA,6,26,Brooklyn,New York,scarletenvy,scarletenvynyc
-136,Honey Davenport,11,13,13,Guest,Reunited,2019-05-23,Reunion,NA,7,32,New York,New York,honeydavenportofficial,honey_davenport
-137,A'keria Chanel Davenport,11,13,3,Guest,Reunited,2019-05-23,Reunion,NA,8,30,Dallas,Texas,mizakeriachanel,a_doublec_d
-138,Yvie Oddly,11,13,1,Guest,Reunited,2019-05-23,Reunion,NA,9,24,Denver,Colorado,oddlyyvie,oddlyyvie
-139,Silky Nutmeg Ganache,11,13,3,Guest,Reunited,2019-05-23,Reunion,NA,10,28,Chicago,Illinois,silkyganache,GanacheSilky
-140,Brooke Lynn Hytes,11,13,2,Guest,Reunited,2019-05-23,Reunion,NA,11,32,Nashville,Tennessee,bhytes,bhytes1
-141,Ariel Versace,11,13,11,Guest,Reunited,2019-05-23,Reunion,NA,12,26,Cherry Hill,New Jersey,arielversace,arielversace
-142,Ra'jah D. O'Hara,11,13,9,Guest,Reunited,2019-05-23,Reunion,NA,13,33,Dallas,Texas,therajahoharashow,RaJahOHara
-143,Kahanna Montrese,11,13,14,Guest,Reunited,2019-05-23,Reunion,NA,14,25,Las Vegas,Nevada,kahannamontrese,kahannamontrese
-144,Soju,11,13,15,Guest,Reunited,2019-05-23,Reunion,NA,15,27,Chicago,Illinois,shotwithsoju,shotwithsoju
-130,Vanessa Vanjie Mateo,11,14,5,Guest,Grand Finale,2019-05-30,Finale,NA,1,26,Tampa,Florida,vanessavanjie,VanessaVanjie
-131,Nina West,11,14,6,Miss C,Grand Finale,2019-05-30,Finale,NA,2,39,Columbus,Ohio,ninawest,NinaWest
-132,Shuga Cain,11,14,7,Guest,Grand Finale,2019-05-30,Finale,NA,3,40,New York,New York,missshugacain,missshugacain
-133,Plastique Tiara,11,14,8,Guest,Grand Finale,2019-05-30,Finale,NA,4,21,Southlake,Texas,plastiquetiara,plastiquetiara
-134,Mercedes Iman Diamond,11,14,12,Guest,Grand Finale,2019-05-30,Finale,NA,5,31,Minneapolis,Minnesota,mercedesimandiamond,mercedesiman
-135,Scarlet Envy,11,14,10,Guest,Grand Finale,2019-05-30,Finale,NA,6,26,Brooklyn,New York,scarletenvy,scarletenvynyc
-136,Honey Davenport,11,14,13,Guest,Grand Finale,2019-05-30,Finale,NA,7,32,New York,New York,honeydavenportofficial,honey_davenport
-137,A'keria Chanel Davenport,11,14,3,Eliminated,Grand Finale,2019-05-30,Finale,NA,8,30,Dallas,Texas,mizakeriachanel,a_doublec_d
-138,Yvie Oddly,11,14,1,Winner,Grand Finale,2019-05-30,Finale,NA,9,24,Denver,Colorado,oddlyyvie,oddlyyvie
-139,Silky Nutmeg Ganache,11,14,3,Eliminated,Grand Finale,2019-05-30,Finale,NA,10,28,Chicago,Illinois,silkyganache,GanacheSilky
-140,Brooke Lynn Hytes,11,14,2,Runner-up,Grand Finale,2019-05-30,Finale,NA,11,32,Nashville,Tennessee,bhytes,bhytes1
-141,Ariel Versace,11,14,11,Guest,Grand Finale,2019-05-30,Finale,NA,12,26,Cherry Hill,New Jersey,arielversace,arielversace
-142,Ra'jah D. O'Hara,11,14,9,Guest,Grand Finale,2019-05-30,Finale,NA,13,33,Dallas,Texas,therajahoharashow,RaJahOHara
-143,Kahanna Montrese,11,14,14,Guest,Grand Finale,2019-05-30,Finale,NA,14,25,Las Vegas,Nevada,kahannamontrese,kahannamontrese
-144,Soju,11,14,15,Guest,Grand Finale,2019-05-30,Finale,NA,15,27,Chicago,Illinois,shotwithsoju,shotwithsoju
+130,Vanessa Vanjie Mateo,11,13,5,Guest,Reunited,2019-05-23,Reunion,,1,26,Tampa,Florida,vanessavanjie,VanessaVanjie
+131,Nina West,11,13,6,Guest,Reunited,2019-05-23,Reunion,,2,39,Columbus,Ohio,ninawest,NinaWest
+132,Shuga Cain,11,13,7,Guest,Reunited,2019-05-23,Reunion,,3,40,New York,New York,missshugacain,missshugacain
+133,Plastique Tiara,11,13,8,Guest,Reunited,2019-05-23,Reunion,,4,21,Southlake,Texas,plastiquetiara,plastiquetiara
+134,Mercedes Iman Diamond,11,13,12,Guest,Reunited,2019-05-23,Reunion,,5,31,Minneapolis,Minnesota,mercedesimandiamond,mercedesiman
+135,Scarlet Envy,11,13,10,Guest,Reunited,2019-05-23,Reunion,,6,26,Brooklyn,New York,scarletenvy,scarletenvynyc
+136,Honey Davenport,11,13,13,Guest,Reunited,2019-05-23,Reunion,,7,32,New York,New York,honeydavenportofficial,honey_davenport
+137,A'keria Chanel Davenport,11,13,3,Guest,Reunited,2019-05-23,Reunion,,8,30,Dallas,Texas,mizakeriachanel,a_doublec_d
+138,Yvie Oddly,11,13,1,Guest,Reunited,2019-05-23,Reunion,,9,24,Denver,Colorado,oddlyyvie,oddlyyvie
+139,Silky Nutmeg Ganache,11,13,3,Guest,Reunited,2019-05-23,Reunion,,10,28,Chicago,Illinois,silkyganache,GanacheSilky
+140,Brooke Lynn Hytes,11,13,2,Guest,Reunited,2019-05-23,Reunion,,11,32,Nashville,Tennessee,bhytes,bhytes1
+141,Ariel Versace,11,13,11,Guest,Reunited,2019-05-23,Reunion,,12,26,Cherry Hill,New Jersey,arielversace,arielversace
+142,Ra'jah D. O'Hara,11,13,9,Guest,Reunited,2019-05-23,Reunion,,13,33,Dallas,Texas,therajahoharashow,RaJahOHara
+143,Kahanna Montrese,11,13,14,Guest,Reunited,2019-05-23,Reunion,,14,25,Las Vegas,Nevada,kahannamontrese,kahannamontrese
+144,Soju,11,13,15,Guest,Reunited,2019-05-23,Reunion,,15,27,Chicago,Illinois,shotwithsoju,shotwithsoju
+130,Vanessa Vanjie Mateo,11,14,5,Guest,Grand Finale,2019-05-30,Finale,,1,26,Tampa,Florida,vanessavanjie,VanessaVanjie
+131,Nina West,11,14,6,Miss C,Grand Finale,2019-05-30,Finale,,2,39,Columbus,Ohio,ninawest,NinaWest
+132,Shuga Cain,11,14,7,Guest,Grand Finale,2019-05-30,Finale,,3,40,New York,New York,missshugacain,missshugacain
+133,Plastique Tiara,11,14,8,Guest,Grand Finale,2019-05-30,Finale,,4,21,Southlake,Texas,plastiquetiara,plastiquetiara
+134,Mercedes Iman Diamond,11,14,12,Guest,Grand Finale,2019-05-30,Finale,,5,31,Minneapolis,Minnesota,mercedesimandiamond,mercedesiman
+135,Scarlet Envy,11,14,10,Guest,Grand Finale,2019-05-30,Finale,,6,26,Brooklyn,New York,scarletenvy,scarletenvynyc
+136,Honey Davenport,11,14,13,Guest,Grand Finale,2019-05-30,Finale,,7,32,New York,New York,honeydavenportofficial,honey_davenport
+137,A'keria Chanel Davenport,11,14,3,Eliminated,Grand Finale,2019-05-30,Finale,,8,30,Dallas,Texas,mizakeriachanel,a_doublec_d
+138,Yvie Oddly,11,14,1,Winner,Grand Finale,2019-05-30,Finale,,9,24,Denver,Colorado,oddlyyvie,oddlyyvie
+139,Silky Nutmeg Ganache,11,14,3,Eliminated,Grand Finale,2019-05-30,Finale,,10,28,Chicago,Illinois,silkyganache,GanacheSilky
+140,Brooke Lynn Hytes,11,14,2,Runner-up,Grand Finale,2019-05-30,Finale,,11,32,Nashville,Tennessee,bhytes,bhytes1
+141,Ariel Versace,11,14,11,Guest,Grand Finale,2019-05-30,Finale,,12,26,Cherry Hill,New Jersey,arielversace,arielversace
+142,Ra'jah D. O'Hara,11,14,9,Guest,Grand Finale,2019-05-30,Finale,,13,33,Dallas,Texas,therajahoharashow,RaJahOHara
+143,Kahanna Montrese,11,14,14,Guest,Grand Finale,2019-05-30,Finale,,14,25,Las Vegas,Nevada,kahannamontrese,kahannamontrese
+144,Soju,11,14,15,Guest,Grand Finale,2019-05-30,Finale,,15,27,Chicago,Illinois,shotwithsoju,shotwithsoju

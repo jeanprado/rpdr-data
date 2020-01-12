@@ -7,12 +7,13 @@ library(googlesheets)
 gs_auth()
 gs_data <- "1Sotvl3o7J_ckKUg5sRiZTqNQn3hPqhepBSeOpMTK15Q" %>%  gs_key
 
-rpdr_episodes <- gs_data %>% gs_read("all_episodes") %>% write_csv()
+rpdr_episodes <- gs_data %>% gs_read("all_episodes") %>% write_csv('data/rpdr_episodes.csv', na="")
 rpdr_contestants <- gs_data %>% gs_read("all_contestants")
-rpdr_rankings <- gs_data %>% gs_read("all_rankings")%>% rbind(rpdr_rankings[1186:1200,])
+rpdr_rankings <- gs_data %>% gs_read("all_rankings")
 
 ## Fixes with current results
 rpdr_contestants[137:140,"season_outcome"] <- c(3, 1, 3, 2)
+rpdr_rankings <- rpdr_rankings %>% rbind(rpdr_rankings[1186:1200,])
 rpdr_rankings[1201:1215,]$episode_number <- 14
 rpdr_rankings[c(1201:1204, 1206),"episode_placement"] <- c("Eliminated", "Runner-up", "Eliminated", "Winner", "Miss C")
 
@@ -23,10 +24,10 @@ rpdr_all <- rpdr_contestants %>% left_join(rpdr_rankings) %>% left_join(rpdr_epi
          episode_placement, episode_title, episode_airdate:episode_maxi_challenge_type, everything())
 
 ## Saves all datasets
-rpdr_all %>% write_csv("data/rpdr_all.csv")
-rpdr_contestants %>% write_csv("data/rpdr_contestants.csv")
+rpdr_all %>% write_csv("data/rpdr_all.csv", na="")
+rpdr_contestants %>% write_csv("data/rpdr_contestants.csv", na="")
 rpdr_rankings %>% left_join(rpdr_contestants %>% select(contestant_id, contestant_name)) %>% 
-  select(season_number:contestant_id, contestant_name, episode_placement) %>% write_csv("data/rpdr_rankings.csv")
+  select(season_number:contestant_id, contestant_name, episode_placement) %>% write_csv("data/rpdr_rankings.csv", na="")
 
 # Imports lipsync data from Wikipedia
 rpdr_lipsyncs <- list()
@@ -43,9 +44,9 @@ tidy_lipsyncs <- function(df) {
 rpdr_lipsyncs <- bind_rows(lapply(rpdr_lipsyncs, tidy_lipsyncs), .id = "season_number") %>% type_convert() %>% 
   mutate(lipsync_song=str_replace_all(lipsync_song, c('"'='', '“'='', '”'=''))) %>%
   extract(lipsync_song, c("lipsync_song", "song_author"), regex="(.*)\\(([^)]*)\\)[^(]*$") %>% 
-  write_csv('data/rpdr_lipsyncs.csv')
+  write_csv('data/rpdr_lipsyncs.csv', na="")
 
-rpdr_episodes_lipsyncs <- rpdr_episodes %>% left_join(rpdr_lipsyncs) %>% write_csv('data/rpdr_episodes_lipsyncs.csv')
+rpdr_episodes_lipsyncs <- rpdr_episodes %>% left_join(rpdr_lipsyncs) %>% write_csv('data/rpdr_episodes_lipsyncs.csv', na="")
 rm(i)
 
 # Import ratings data from Wikipedia (in progress...)
