@@ -1,0 +1,146 @@
+season_number,episode_number,episode_airdate,episode_title,episode_type,episode_maxi_challenge_type
+1,1,2009-02-02,Drag on a Dime,Competition,Sewing
+1,2,2009-02-09,Girl Group Challenge,Competition,Lipsync
+1,3,2009-02-16,Queens of All Media,Competition,Talk Show
+1,4,2009-02-23,Mac Viva-Glam Challenge,Competition,Commercial
+1,5,2009-03-02,Drag School of Charm,Competition,Makeover
+1,6,2009-03-09,Absolut Drag Ball,Competition,Ball
+1,7,2009-03-16,Extra Special Edition,Recap,NA
+1,8,2009-03-23,Grande Finale,Finale,NA
+1,9,2009-03-23,Re-United!,Reunion,NA
+2,1,2010-02-01,Gone with the Windows,Competition,Sewing
+2,2,2010-02-08,Starbootylicious,Competition,Dancing
+2,3,2010-02-15,Country Queens,Competition,Acting
+2,4,2010-02-22,The Snatch Game,Competition,Snatch Game
+2,5,2010-03-01,Here Comes the Bride,Competition,Sewing
+2,6,2010-03-08,Rocker Chicks,Competition,Singing
+2,7,2010-03-22,Once Upon a Queen,Competition,Personal Branding
+2,8,2010-03-29,Golden Gals,Competition,Makeover
+2,9,2010-04-12,The Diva Awards,Competition,Ball
+2,10,2010-04-19,The Main Event Clip Show,Recap,NA
+2,11,2010-04-26,Grand Finale,Finale,NA
+2,12,2010-04-26,Reunion,Reunion,NA
+3,1,2011-01-24,Casting Extravaganza,Casting,NA
+3,2,2011-01-24,The Queen Who Mopped Xmas,Competition,Sewing
+3,3,2011-01-31,Queens in Space,Competition,Acting
+3,4,2011-02-07,Totally Leotarded,Competition,Personal Branding
+3,5,2011-02-14,QNN News,Competition,Talk Show
+3,6,2011-02-21,The Snatch Game,Competition,Snatch Game
+3,7,2011-02-28,"Face, Face, Face of Cakes",Competition,Sewing
+3,8,2011-03-07,Ru Ha Ha,Competition,Comedy
+3,9,2011-03-14,"Life, Liberty & the Pursuit of Style",Competition,Personal Branding
+3,10,2011-03-21,RuPaul-a-Palooza,Competition,Singing
+3,11,2011-03-28,RuPaul's Hair Extravaganza,Competition,Ball
+3,12,2011-04-04,Jocks in Frocks,Competition,Makeover
+3,13,2011-04-11,Make Dat Money,Competition,Ball
+3,14,2011-04-18,Superstar Edition,Recap,NA
+3,15,2011-04-25,Grand Finale,Finale,NA
+3,16,2011-05-02,Reunited!,Reunion,NA
+4,1,2012-01-30,RuPocalypse Now!,Competition,Sewing
+4,2,2012-02-06,WTF!: Wrestling's Trashiest Fighters,Competition,Acting
+4,3,2012-02-13,Glamazons vs Champions,Competition,Commercial
+4,4,2012-02-20,Queens Behind Bars,Competition,Acting
+4,5,2012-02-27,Snatch Game,Competition,Snatch Game
+4,6,2012-03-05,Float Your Boat,Competition,Sewing
+4,7,2012-03-12,Dragazines,Competition,Personal Branding
+4,8,2012-03-19,Frenemies,Competition,Singing
+4,9,2012-03-26,Frock the Vote!,Competition,Acting
+4,10,2012-04-02,DILFs: Dads I'd Like To Frock,Competition,Makeover
+4,11,2012-04-09,The Fabulous Bitch Ball,Competition,Ball
+4,12,2012-04-16,RuPaul Rewind,Recap,NA
+4,13,2012-04-23,The Final Three,Finale,NA
+4,14,2012-04-30,Reunited,Reunion,NA
+5,1,2013-01-28,RuPaullywood or Bust,Competition,Sewing
+5,2,2013-02-04,Lip Synch Eleganza Extravaganza,Competition,Lipsync
+5,3,2013-02-11,Draggle Rock,Competition,Acting
+5,4,2013-02-18,Black Swan: Why It Gotta Be Black?,Competition,Dancing
+5,5,2013-02-25,Snatch Game,Competition,Snatch Game
+5,6,2013-03-04,Can I Get An Amen?,Competition,Singing
+5,7,2013-03-11,RuPaul Roast,Competition,Comedy
+5,8,2013-03-18,Scent of a Drag Queen,Competition,Commercial
+5,9,2013-04-01,Drama Queens,Competition,Acting
+5,10,2013-04-08,Super Troopers,Competition,Makeover
+5,11,2013-04-15,Sugar Ball,Competition,Ball
+5,12,2013-04-22,"The Final Three, Hunty",Competition,Music Video
+5,13,2013-04-29,Countdown to the Crown,Recap,NA
+5,14,2013-05-06,Reunited!,Reunion,NA
+6,1,2014-02-24,RuPauls Big Opening,Competition,Sewing
+6,2,2014-03-03,RuPauls Big Opening Part 2,Competition,Sewing
+6,3,2014-03-10,Scream Queens,Competition,Acting
+6,4,2014-03-17,Shade: The Rusical,Competition,Musical
+6,5,2014-03-24,Snatch Game,Competition,Snatch Game
+6,6,2014-03-31,Oh No She Betta Don't,Competition,Singing
+6,7,2014-04-07,Glamazon by Colorevolution,Competition,Commercial
+6,8,2014-04-07,Drag Queens of Comedy,Competition,Comedy
+6,9,2014-04-14,Drag Queens of Talk,Competition,Talk Show
+6,10,2014-04-21,Drag My Wedding,Competition,Makeover
+6,11,2014-04-28,Glitter Ball,Competition,Ball
+6,12,2014-05-05,Sissy That Walk!,Competition,Music Video
+6,13,2014-05-12,Countdown To The Crown,Recap,NA
+6,14,2014-05-19,The Finale,Finale,NA
+7,1,2015-03-02,Born Naked,Competition,Sewing
+7,2,2015-03-09,Glamazonian Airways,Competition,Lipsync
+7,3,2015-03-16,ShakesQueer,Competition,Acting
+7,4,2015-03-23,Spoof! (There It Is),Competition,Acting
+7,5,2015-03-30,The DESPY Awards,Competition,Comedy
+7,6,2015-04-06,Ru Hollywood Stories,Competition,Acting
+7,7,2015-04-13,Snatch Game,Competition,Snatch Game
+7,8,2015-04-20,Conjoined Queens,Competition,Makeover
+7,9,2015-04-27,Divine Inspiration,Competition,Acting
+7,10,2015-05-04,Prancing Queens,Competition,Dancing
+7,11,2015-05-11,"Hello, Kitty Girls!",Competition,Ball
+7,12,2015-05-18,And The Rest Is Drag,Competition,Music Video
+7,13,2015-05-25,Countdown to the Crown,Recap,NA
+7,14,2015-06-01,The Grand Finale,Finale,NA
+8,1,2016-03-07,Keeping it 100!,Competition,Sewing
+8,2,2016-03-14,Bitch Perfect,Competition,Lipsync
+8,3,2016-03-21,RuCo's Empire,Competition,Acting
+8,4,2016-03-28,New Wave Queens,Competition,Singing
+8,5,2016-04-04,Supermodel Snatch Game,Competition,Snatch Game
+8,6,2016-04-11,Wizards of Drag,Competition,Makeover
+8,7,2016-04-18,Shady Politics,Competition,Acting
+8,8,2016-04-25,RuPaul Book Ball,Competition,Ball
+8,9,2016-05-02,The Realness,Competition,Music Video
+8,10,2016-05-16,Grand Finale,Finale,NA
+9,1,2017-03-24,Oh. My. Gaga!,Competition,Runway
+9,2,2017-03-31,She Done Already Done Brought It On,Competition,Dancing
+9,3,2017-04-07,Draggily Ever After,Competition,Sewing
+9,4,2017-04-14,Good Morning Bitches!,Competition,Talk Show
+9,5,2017-04-21,Reality Stars: The Musical,Competition,Lipsync
+9,6,2017-04-28,Snatch Game,Competition,Snatch Game
+9,7,2017-05-05,9021-HO,Competition,Acting
+9,8,2017-05-12,RuPaul Roast,Competition,Comedy
+9,9,2017-05-19,Your Pilot's On Fire,Competition,Acting
+9,10,2017-05-26,Makeovers: Crew Better Work,Competition,Makeover
+9,11,2017-06-02,Gayest Ball Ever,Competition,Ball
+9,12,2017-06-09,Category Is,Competition,Music Video
+9,13,2017-06-16,Reunited,Reunion,NA
+9,14,2017-06-23,Grand Finale,Finale,NA
+10,1,2018-03-22,10s Across The Board,Competition,Sewing
+10,2,2018-03-29,PharmaRusical,Competition,Lipsync
+10,3,2018-04-05,Tap That App,Competition,Commercial
+10,4,2018-04-12,The Last Ball on Earth,Competition,Ball
+10,5,2018-04-19,The Bossy Rossy Show,Competition,Comedy
+10,6,2018-04-26,Drag Con Panel Extravaganza,Competition,Personal Branding
+10,7,2018-05-03,Snatch Game,Competition,Snatch Game
+10,8,2018-05-10,The Unauthorized Rusical,Competition,Lipsync
+10,9,2018-05-17,Breastworld,Competition,Acting
+10,10,2018-05-24,Social Media Kings Into Queens,Competition,Makeover
+10,11,2018-06-07,Evil Twins,Competition,Personal Branding
+10,12,2018-06-14,American,Competition,Music Video
+10,13,2018-06-21,Queens Reunited,Reunion,NA
+10,14,2018-06-28,Grand Finale,Finale,NA
+11,1,2019-02-28,Whatcha Unpackin?,Competition,Sewing
+11,2,2019-03-07,"Good God Girl, Get Out",Competition,Acting
+11,3,2019-03-14,Diva Worship,Competition,Acting
+11,4,2019-03-21,Trump: The Rusical,Competition,Musical
+11,5,2019-03-28,Monster Ball,Competition,Ball
+11,6,2019-04-04,The Dragylmpics,Competition,Dancing
+11,7,2019-04-11,From Farm to Runway,Competition,Sewing
+11,8,2019-04-18,Snatch Game At Sea,Competition,Snatch Game
+11,9,2019-04-25,L.A.D.P.!,Competition,Acting
+11,10,2019-05-02,Dragracadabra,Competition,Acting
+11,11,2019-05-09,Bring Back My Queens!,Competition,Makeover
+11,12,2019-05-16,Queens Everywhere,Competition,Music Video
+11,13,2019-05-23,Reunited,Reunion,NA
+11,14,2019-05-30,Grand Finale,Finale,NA
