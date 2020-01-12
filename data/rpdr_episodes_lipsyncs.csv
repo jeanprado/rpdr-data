@@ -1,0 +1,154 @@
+season_number,episode_number,episode_airdate,episode_title,episode_type,episode_maxi_challenge_type,lipsync_song,song_author
+1,1,2009-02-02,Drag on a Dime,Competition,Sewing,Supermodel (You Better Work),RuPaul
+1,2,2009-02-09,Girl Group Challenge,Competition,Lipsync,We Break the Dawn,Michelle Williams
+1,3,2009-02-16,Queens of All Media,Competition,Talk Show,The Greatest Love of All,Whitney Houston
+1,4,2009-02-23,Mac Viva-Glam Challenge,Competition,Commercial,Would I Lie To You?,Eurythmics
+1,5,2009-03-02,Drag School of Charm,Competition,Makeover,Stronger,Britney Spears
+1,6,2009-03-09,Absolut Drag Ball,Competition,Ball,Shackles (Praise You),Mary Mary
+1,7,2009-03-16,Extra Special Edition,Recap,NA,NA,NA
+1,8,2009-03-23,Grande Finale,Finale,NA,Cover Girl (Put the Bass in Your Walk),RuPaul
+1,9,2009-03-23,Re-United!,Reunion,NA,NA,NA
+2,1,2010-02-01,Gone with the Windows,Competition,Sewing,Cover Girl (Put the Bass in Your Walk),RuPaul
+2,2,2010-02-08,Starbootylicious,Competition,Dancing,My Lovin' (You're Never Gonna Get It),En Vogue
+2,3,2010-02-15,Country Queens,Competition,Acting,I Hear You Knocking,Wynonna Judd
+2,4,2010-02-22,The Snatch Game,Competition,Snatch Game,Two of Hearts,Stacey Q
+2,5,2010-03-01,Here Comes the Bride,Competition,Sewing,Carry On,Martha Wash
+2,6,2010-03-08,Rocker Chicks,Competition,Singing,Black Velvet,Alannah Myles
+2,7,2010-03-22,Once Upon a Queen,Competition,Personal Branding,He's the Greatest Dancer,Sister Sledge
+2,8,2010-03-29,Golden Gals,Competition,Makeover,Shake Your Love,Debbie Gibson
+2,9,2010-04-12,The Diva Awards,Competition,Ball,Something He Can Feel,Aretha Franklin
+2,10,2010-04-19,The Main Event Clip Show,Recap,NA,NA,NA
+2,11,2010-04-26,Grand Finale,Finale,NA,Jealous of My Boogie (Gomi and RasJek Edit) ,RuPaul
+2,12,2010-04-26,Reunion,Reunion,NA,NA,NA
+3,1,2011-01-24,Casting Extravaganza,Casting,NA,NA,NA
+3,2,2011-01-24,The Queen Who Mopped Xmas,Competition,Sewing,The Right Stuff ,Vanessa Williams
+3,3,2011-01-31,Queens in Space,Competition,Acting,Bad Romance ,Lady Gaga
+3,4,2011-02-07,Totally Leotarded,Competition,Personal Branding,Don't Leave Me This Way ,Thelma Houston
+3,5,2011-02-14,QNN News,Competition,Talk Show,Meeting in the Ladies Room ,Klymaxx
+3,6,2011-02-21,The Snatch Game,Competition,Snatch Game,Looking for a New Love,Jody Watley
+3,7,2011-02-28,"Face, Face, Face of Cakes",Competition,Sewing,Knock on Wood,Amii Stewart
+3,8,2011-03-07,Ru Ha Ha,Competition,Comedy,MacArthur Park,Donna Summer
+3,9,2011-03-14,"Life, Liberty & the Pursuit of Style",Competition,Personal Branding,Mickey (Spanish version),Toni Basil
+3,10,2011-03-21,RuPaul-a-Palooza,Competition,Singing,Believe,Cher
+3,11,2011-03-28,RuPaul's Hair Extravaganza,Competition,Ball,Even Angels,Fantasia Barrino
+3,12,2011-04-04,Jocks in Frocks,Competition,Makeover,Straight Up,Paula Abdul
+3,13,2011-04-11,Make Dat Money,Competition,Ball,I Think About You ,Patti LaBelle
+3,14,2011-04-18,Superstar Edition,Recap,NA,NA,NA
+3,15,2011-04-25,Grand Finale,Finale,NA,Champion (DJ BunJoe's Olympic Mix) ,RuPaul
+3,16,2011-05-02,Reunited!,Reunion,NA,NA,NA
+4,1,2012-01-30,RuPocalypse Now!,Competition,Sewing,Toxic ,Britney Spears
+4,2,2012-02-06,WTF!: Wrestling's Trashiest Fighters,Competition,Acting,Bad Girls ,Donna Summer
+4,3,2012-02-13,Glamazons vs Champions,Competition,Commercial,This Will Be (An Everlasting Love) ,Natalie Cole
+4,4,2012-02-20,Queens Behind Bars,Competition,Acting,Trouble ,Pink
+4,5,2012-02-27,Snatch Game,Competition,Snatch Game,Vogue ,Madonna
+4,6,2012-03-05,Float Your Boat,Competition,Sewing,Born This Way ,Lady Gaga
+4,7,2012-03-12,Dragazines,Competition,Personal Branding,Mi Vida Loca (My Crazy Life) ,Pam Tillis
+4,8,2012-03-19,Frenemies,Competition,Singing,It's Raining Men (The Sequel) ,Martha Wash and RuPaul
+4,9,2012-03-26,Frock the Vote!,Competition,Acting,I've Got to Use My Imagination ,Gladys Knight & The Pips
+4,10,2012-04-02,DILFs: Dads I'd Like To Frock,Competition,Makeover,(You Make Me Feel Like) A Natural Woman ,Aretha Franklin
+4,11,2012-04-09,The Fabulous Bitch Ball,Competition,Ball,No One Else on Earth ,Wynonna Judd
+4,12,2012-04-16,RuPaul Rewind,Recap,NA,NA,NA
+4,13,2012-04-23,The Final Three,Finale,NA,Glamazon,RuPaul
+4,14,2012-04-30,Reunited,Reunion,NA,NA,NA
+5,1,2013-01-28,RuPaullywood or Bust,Competition,Sewing,Party in the U.S.A. ,Miley Cyrus
+5,2,2013-02-04,Lip Synch Eleganza Extravaganza,Competition,Lipsync,Only Girl (In the World) ,Rihanna
+5,3,2013-02-11,Draggle Rock,Competition,Acting,When I Grow Up ,The Pussycat Dolls
+5,4,2013-02-18,Black Swan: Why It Gotta Be Black?,Competition,Dancing,Oops!... I Did It Again ,Britney Spears
+5,4,2013-02-18,Black Swan: Why It Gotta Be Black?,Competition,Dancing,Oops!... I Did It Again ,Britney Spears
+5,5,2013-02-25,Snatch Game,Competition,Snatch Game,Take Me Home ,Cher
+5,6,2013-03-04,Can I Get An Amen?,Competition,Singing,I'm So Excited ,The Pointer Sisters
+5,7,2013-03-11,RuPaul Roast,Competition,Comedy,Whip My Hair ,Willow Smith
+5,8,2013-03-18,Scent of a Drag Queen,Competition,Commercial,Ain't Nothin' Goin' On but the Rent ,Gwen Guthrie
+5,9,2013-04-01,Drama Queens,Competition,Acting,Cold Hearted ,Paula Abdul
+5,10,2013-04-08,Super Troopers,Competition,Makeover,Two to Make it Right ,Seduction
+5,11,2013-04-15,Sugar Ball,Competition,Ball,Malambo No. 1 ,Yma Sumac
+5,12,2013-04-22,"The Final Three, Hunty",Competition,Music Video,The Beginning,RuPaul
+5,13,2013-04-29,Countdown to the Crown,Recap,NA,NA,NA
+5,14,2013-05-06,Reunited!,Reunion,NA,NA,NA
+6,1,2014-02-24,RuPauls Big Opening,Competition,Sewing,Express Yourself,Madonna
+6,2,2014-03-03,RuPauls Big Opening Part 2,Competition,Sewing,Turn the Beat Around,Vicki Sue Robinson
+6,3,2014-03-10,Scream Queens,Competition,Acting,Shake It Up,Selena Gomez
+6,4,2014-03-17,Shade: The Rusical,Competition,Musical,I'm Every Woman,Chaka Khan
+6,5,2014-03-24,Snatch Game,Competition,Snatch Game,Head to Toe,Lisa Lisa & Cult Jam
+6,6,2014-03-31,Oh No She Betta Don't,Competition,Singing,Whatta Man,Salt-n-Pepa with En Vogue
+6,7,2014-04-07,Glamazon by Colorevolution,Competition,Commercial,Point of No Return,Exposé
+6,8,2014-04-07,Drag Queens of Comedy,Competition,Comedy,Stupid Girls,Pink
+6,9,2014-04-14,Drag Queens of Talk,Competition,Talk Show,Vibeology,Paula Abdul
+6,10,2014-04-21,Drag My Wedding,Competition,Makeover,Think,Aretha Franklin
+6,11,2014-04-28,Glitter Ball,Competition,Ball,Stronger (What Doesn't Kill You),Kelly Clarkson
+6,12,2014-05-05,Sissy That Walk!,Competition,Music Video,Sissy That Walk,RuPaul
+6,13,2014-05-12,Countdown To The Crown,Recap,NA,NA,NA
+6,14,2014-05-19,The Finale,Finale,NA,NA,NA
+7,1,2015-03-02,Born Naked,Competition,Sewing,Geronimo,RuPaul ft. Lucian Piane
+7,2,2015-03-09,Glamazonian Airways,Competition,Lipsync,Twist of Fate,Olivia Newton-John
+7,3,2015-03-16,ShakesQueer,Competition,Acting,I Was Gonna Cancel,Kylie Minogue
+7,4,2015-03-23,Spoof! (There It Is),Competition,Acting,Dreaming,Blondie
+7,5,2015-03-30,The DESPY Awards,Competition,Comedy,Lovergirl,Teena Marie
+7,6,2015-04-06,Ru Hollywood Stories,Competition,Acting,Break Free,Ariana Grande ft. Zedd
+7,7,2015-04-13,Snatch Game,Competition,Snatch Game,No More Lies,Michel'le
+7,8,2015-04-20,Conjoined Queens,Competition,Makeover,I Think We're Alone Now,Tiffany
+7,9,2015-04-27,Divine Inspiration,Competition,Acting,Really Don't Care,Demi Lovato ft. Cher Lloyd
+7,10,2015-05-04,Prancing Queens,Competition,Dancing,Show Me Love,Robin S.
+7,11,2015-05-11,"Hello, Kitty Girls!",Competition,Ball,Roar,Katy Perry
+7,12,2015-05-18,And The Rest Is Drag,Competition,Music Video,Born Naked,RuPaul ft. Clairy Browne
+7,13,2015-05-25,Countdown to the Crown,Recap,NA,NA,NA
+7,14,2015-06-01,The Grand Finale,Finale,NA,NA,NA
+8,1,2016-03-07,Keeping it 100!,Competition,Sewing,Applause ,Lady Gaga
+8,2,2016-03-14,Bitch Perfect,Competition,Lipsync,I Will Survive ,Gloria Gaynor
+8,2,2016-03-14,Bitch Perfect,Competition,Lipsync,I Will Survive ,Gloria Gaynor
+8,3,2016-03-21,RuCo's Empire,Competition,Acting,Mesmerized (Freemasons radio edit) ,Faith Evans
+8,4,2016-03-28,New Wave Queens,Competition,Singing,Call Me ,Blondie
+8,5,2016-04-04,Supermodel Snatch Game,Competition,Snatch Game,Causing a Commotion ,Madonna
+8,6,2016-04-11,Wizards of Drag,Competition,Makeover,I Love It ,Icona Pop ft. Charli XCX
+8,7,2016-04-18,Shady Politics,Competition,Acting,And I Am Telling You I'm Not Going ,Jennifer Holliday
+8,8,2016-04-25,RuPaul Book Ball,Competition,Ball,You Make Me Feel (Mighty Real) ,Sylvester
+8,9,2016-05-02,The Realness,Competition,Music Video,The Realness ,RuPaul
+8,10,2016-05-16,Grand Finale,Finale,NA,NA,NA
+9,1,2017-03-24,Oh. My. Gaga!,Competition,Runway,NA,NA
+9,2,2017-03-31,She Done Already Done Brought It On,Competition,Dancing,Love Shack ,The B-52's
+9,3,2017-04-07,Draggily Ever After,Competition,Sewing,Holding Out for a Hero ,Bonnie Tyler
+9,4,2017-04-14,Good Morning Bitches!,Competition,Talk Show,I Wanna Go ,Britney Spears
+9,5,2017-04-21,Reality Stars: The Musical,Competition,Lipsync,Woman Up ,Meghan Trainor
+9,6,2017-04-28,Snatch Game,Competition,Snatch Game,Music ,Madonna
+9,7,2017-05-05,9021-HO,Competition,Acting,Finally ,CeCe Peniston
+9,8,2017-05-12,RuPaul Roast,Competition,Comedy,Baby I'm Burning ,Dolly Parton
+9,9,2017-05-19,Your Pilot's On Fire,Competition,Acting,Greedy ,Ariana Grande
+9,10,2017-05-26,Makeovers: Crew Better Work,Competition,Makeover,Cool for the Summer ,Demi Lovato
+9,11,2017-06-02,Gayest Ball Ever,Competition,Ball,Macho Man ,Village People
+9,12,2017-06-09,Category Is,Competition,Music Video,U Wear It Well ,RuPaul
+9,13,2017-06-16,Reunited,Reunion,NA,NA,NA
+9,14,2017-06-23,Grand Finale,Finale,NA,Stronger ,Britney Spears
+9,14,2017-06-23,Grand Finale,Finale,NA,So Emotional ,Whitney Houston
+9,14,2017-06-23,Grand Finale,Finale,NA,It's Not Right But It's Okay(Thunderpuss Remix) ,Whitney Houston
+10,1,2018-03-22,10s Across The Board,Competition,Sewing,Ain't No Other Man ,Christina Aguilera
+10,2,2018-03-29,PharmaRusical,Competition,Lipsync,Best of My Love,The Emotions
+10,3,2018-04-05,Tap That App,Competition,Commercial,Celebrity Skin,Hole
+10,4,2018-04-12,The Last Ball on Earth,Competition,Ball,Pound the Alarm,Nicki Minaj
+10,5,2018-04-19,The Bossy Rossy Show,Competition,Comedy,Man! I Feel Like a Woman!,Shania Twain
+10,6,2018-04-26,Drag Con Panel Extravaganza,Competition,Personal Branding,I'm Coming Out,Diana Ross
+10,7,2018-05-03,Snatch Game,Competition,Snatch Game,Cut To The Feeling ,Carly Rae Jepsen
+10,8,2018-05-10,The Unauthorized Rusical,Competition,Lipsync,Groove Is in the Heart ,Deee-Lite
+10,9,2018-05-17,Breastworld,Competition,Acting,New Attitude ,Patti Labelle
+10,10,2018-05-24,Social Media Kings Into Queens,Competition,Makeover,Good As Hell ,Lizzo
+10,11,2018-06-07,Evil Twins,Competition,Personal Branding,Nasty Girl ,Vanity 6
+10,12,2018-06-14,American,Competition,Music Video,Call Me Mother ,RuPaul
+10,13,2018-06-21,Queens Reunited,Reunion,NA,NA,NA
+10,14,2018-06-28,Grand Finale,Finale,NA,Nasty ,Janet Jackson
+10,14,2018-06-28,Grand Finale,Finale,NA,If ,Janet Jackson
+10,14,2018-06-28,Grand Finale,Finale,NA,Bang Bang ,"Jessie J, Ariana Grande,and Nicki Minaj"
+11,1,2019-02-28,Whatcha Unpackin?,Competition,Sewing,The Best of Both Worlds ,Hannah Montana
+11,2,2019-03-07,"Good God Girl, Get Out",Competition,Acting,Work Bitch ,Britney Spears
+11,3,2019-03-14,Diva Worship,Competition,Acting,Waiting for Tonight (Hex Hector Mix) ,Jennifer Lopez
+11,4,2019-03-21,Trump: The Rusical,Competition,Musical,Living in America ,James Brown
+11,5,2019-03-28,Monster Ball,Competition,Ball,I'm Your Baby Tonight ,Whitney Houston
+11,6,2019-04-04,The Dragylmpics,Competition,Dancing,Last Dance ,Donna Summer
+11,7,2019-04-11,From Farm to Runway,Competition,Sewing,Strut ,Sheena Easton
+11,8,2019-04-18,Snatch Game At Sea,Competition,Snatch Game,Sorry Not Sorry ,Demi Lovato
+11,9,2019-04-25,L.A.D.P.!,Competition,Acting,Hood Boy ,Fantasia Barrino
+11,10,2019-05-02,Dragracadabra,Competition,Acting,No More Drama ,Mary J. Blige
+11,11,2019-05-09,Bring Back My Queens!,Competition,Makeover,No Scrubs ,TLC
+11,12,2019-05-16,Queens Everywhere,Competition,Music Video,Pride: A Deeper Love ,Aretha Franklin
+11,13,2019-05-23,Reunited,Reunion,NA,NA,NA
+11,14,2019-05-30,Grand Finale,Finale,NA,Bootylicious ,Destiny’s Child
+11,14,2019-05-30,Grand Finale,Finale,NA,SOS ,Rihanna
+11,14,2019-05-30,Grand Finale,Finale,NA,The Edge of Glory ,Lady Gaga

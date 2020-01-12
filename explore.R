@@ -5,6 +5,7 @@ rpdr_all <- read_csv('data/rpdr_all.csv')
 rpdr_contestants <- read_csv('data/rpdr_contestants.csv')
 rpdr_rankings <- read_csv('data/rpdr_rankings.csv')
 rpdr_episodes <- read_csv('data/rpdr_episodes.csv')
+rpdr_lipsyncs <- read_csv('data/rpdr_lipsyncs.csv')
 
 # Explores data
 
