@@ -12,13 +12,16 @@ rpdr_lipsyncs <- read_csv('data/rpdr_lipsyncs.csv')
 
 ## [gets season's scores based on Dusted or Busted Scoring System](https://rupaulsdragrace.fandom.com/wiki/%22Dusted_or_Busted%22_Scoring_System)
 base_scores <- rpdr_rankings %>% distinct(episode_placement) %>% 
-  add_column(points=c(0, 2, -1, 1, -2, -2, rep(NA, 7), -2),
-             performance=c(5, 10, 2.5, 7.5, 0, 0, rep(NA, 7), -2))
+  add_column(points=c(0, 2, -1, 1, -2, -2, rep(NA, 5), rep(0, 2), -2),
+             performance=c(5, 10, 2.5, 7.5, 0, 0, rep(NA, 5), rep(0, 2), -2))
 
-no_episodes <- rpdr_episodes %>% group_by(season_number) %>% summarize(episodes=n())
+## filters reunion, finale and episodes that didn't have points
+no_valid_episodes <- rpdr_rankings %>% left_join(base_scores) %>%
+  filter(!is.na(points)) %>% select(season_number, episode_number) %>%
+  distinct() %>% group_by(season_number) %>% summarize(episodes=n())
 
 ## calculates scores and weights on number of episodes
-rpdr_rankings <- rpdr_rankings %>% left_join(base_scores) %>% left_join(no_episodes) %>% 
+rpdr_rankings <- rpdr_rankings %>% left_join(base_scores) %>% left_join(no_valid_episodes) %>%
   mutate(points_episodes=round((points/episodes)*10, digits=1),
          performance_episodes=round((performance/episodes)*10, digits=1))
 
