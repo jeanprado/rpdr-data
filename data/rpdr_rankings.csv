@@ -95,8 +95,8 @@ season_number,episode_number,contestant_id,contestant_name,episode_placement
 2,5,21,Tyra Sanchez,WIN
 2,5,12,Raven,HIGH
 2,5,13,Jujubee,HIGH
-2,5,19,Tatianna,SAFE
-2,5,20,Pandora Boxx,LOW
+2,5,19,Tatianna,LOW
+2,5,20,Pandora Boxx,SAFE
 2,5,17,Jessica Wild,HIGH
 2,5,14,Sahara Davenport,BTM2
 2,5,15,Morgan McMichaels,ELIM
@@ -212,7 +212,7 @@ season_number,episode_number,contestant_id,contestant_name,episode_placement
 3,9,30,Alexis Mateo,WIN
 3,9,28,Yara Sofia,BTM2
 3,9,23,Carmen Carrera,BTM2
-3,9,34,Shangela,SAFE
+3,9,34,Shangela,HIGH
 3,10,33,Raja,WIN
 3,10,25,Manila Luzon,HIGH
 3,10,30,Alexis Mateo,LOW
@@ -549,11 +549,11 @@ season_number,episode_number,contestant_id,contestant_name,episode_placement
 6,9,70,Trinity K. Bonet,ELIM
 6,10,69,Bianca Del Rio,WIN
 6,10,62,Adore Delano,BTM2
-6,10,74,Courtney Act,LOW
+6,10,74,Courtney Act,SAFE
 6,10,75,Darienne Lake,LOW
 6,10,63,BenDeLaCreme,HIGH
 6,10,71,Joslyn Fox,ELIM
-6,11,69,Bianca Del Rio,SAFE
+6,11,69,Bianca Del Rio,HIGH
 6,11,62,Adore Delano,WIN
 6,11,74,Courtney Act,LOW
 6,11,75,Darienne Lake,BTM2
@@ -670,7 +670,7 @@ season_number,episode_number,contestant_id,contestant_name,episode_placement
 7,9,79,Violet Chachki,LOW
 7,9,77,Ginger Minj,WIN
 7,9,86,Pearl,BTM2
-7,9,87,Kennedy Davenport,SAFE
+7,9,87,Kennedy Davenport,HIGH
 7,9,81,Katya,HIGH
 7,9,84,Trixie Mattel,SAFE
 7,9,76,Miss Fame,ELIM
@@ -681,8 +681,8 @@ season_number,episode_number,contestant_id,contestant_name,episode_placement
 7,10,81,Katya,WIN
 7,10,84,Trixie Mattel,ELIM
 7,11,79,Violet Chachki,WIN
-7,11,77,Ginger Minj,SAFE
-7,11,86,Pearl,SAFE
+7,11,77,Ginger Minj,HIGH
+7,11,86,Pearl,HIGH
 7,11,87,Kennedy Davenport,BTM2
 7,11,81,Katya,ELIM
 7,12,79,Violet Chachki,SAFE
@@ -705,7 +705,7 @@ season_number,episode_number,contestant_id,contestant_name,episode_placement
 7,14,89,Tempest DuJour,Guest
 8,1,98,Bob the Drag Queen,SAFE
 8,1,96,Kim Chi,WIN
-8,1,90,Naomi Smalls,SAFE
+8,1,90,Naomi Smalls,LOW
 8,1,100,Chi Chi DeVayne,SAFE
 8,1,101,Derrick Barry,HIGH
 8,1,97,Thorgy Thor,SAFE
@@ -743,7 +743,7 @@ season_number,episode_number,contestant_id,contestant_name,episode_placement
 8,4,101,Derrick Barry,LOW
 8,4,97,Thorgy Thor,SAFE
 8,4,95,Robbie Turner,WIN
-8,4,94,Acid Betty,SAFE
+8,4,94,Acid Betty,LOW
 8,4,93,Naysha Lopez,ELIM
 8,5,98,Bob the Drag Queen,WIN
 8,5,96,Kim Chi,SAFE
@@ -753,7 +753,7 @@ season_number,episode_number,contestant_id,contestant_name,episode_placement
 8,5,97,Thorgy Thor,HIGH
 8,5,95,Robbie Turner,LOW
 8,5,94,Acid Betty,ELIM
-8,6,98,Bob the Drag Queen,SAFE
+8,6,98,Bob the Drag Queen,LOW
 8,6,96,Kim Chi,HIGH
 8,6,90,Naomi Smalls,WIN
 8,6,100,Chi Chi DeVayne,LOW
@@ -761,8 +761,8 @@ season_number,episode_number,contestant_id,contestant_name,episode_placement
 8,6,97,Thorgy Thor,SAFE
 8,6,95,Robbie Turner,ELIM
 8,7,98,Bob the Drag Queen,WIN
-8,7,96,Kim Chi,SAFE
-8,7,90,Naomi Smalls,SAFE
+8,7,96,Kim Chi,LOW
+8,7,90,Naomi Smalls,HIGH
 8,7,100,Chi Chi DeVayne,BTM2
 8,7,101,Derrick Barry,WIN
 8,7,97,Thorgy Thor,ELIM
@@ -1060,10 +1060,10 @@ season_number,episode_number,contestant_id,contestant_name,episode_placement
 10,14,119,Yuhua Hamasaki,Guest
 10,14,124,Kalorie Karbdashian Williams,Guest
 10,14,128,Vanessa Vanjie Mateo,Guest
-11,1,137,A'keria Chanel Davenport,HIGH
-11,1,140,Brooke Lynn Hytes,WIN
-11,1,139,Silky Nutmeg Ganache,SAFE
 11,1,138,Yvie Oddly,SAFE
+11,1,140,Brooke Lynn Hytes,WIN
+11,1,137,A'keria Chanel Davenport,HIGH
+11,1,139,Silky Nutmeg Ganache,SAFE
 11,1,130,Vanessa Vanjie Mateo,HIGH
 11,1,131,Nina West,LOW
 11,1,132,Shuga Cain,SAFE
@@ -1075,10 +1075,10 @@ season_number,episode_number,contestant_id,contestant_name,episode_placement
 11,1,136,Honey Davenport,SAFE
 11,1,143,Kahanna Montrese,BTM2
 11,1,144,Soju,ELIM
-11,2,137,A'keria Chanel Davenport,SAFE
-11,2,140,Brooke Lynn Hytes,LOW
-11,2,139,Silky Nutmeg Ganache,SAFE
 11,2,138,Yvie Oddly,WIN
+11,2,140,Brooke Lynn Hytes,LOW
+11,2,137,A'keria Chanel Davenport,SAFE
+11,2,139,Silky Nutmeg Ganache,SAFE
 11,2,130,Vanessa Vanjie Mateo,SAFE
 11,2,131,Nina West,SAFE
 11,2,132,Shuga Cain,HIGH
@@ -1089,10 +1089,10 @@ season_number,episode_number,contestant_id,contestant_name,episode_placement
 11,2,134,Mercedes Iman Diamond,BTM2
 11,2,136,Honey Davenport,SAFE
 11,2,143,Kahanna Montrese,ELIM
-11,3,137,A'keria Chanel Davenport,BTM6
-11,3,140,Brooke Lynn Hytes,HIGH
-11,3,139,Silky Nutmeg Ganache,HIGH
 11,3,138,Yvie Oddly,HIGH
+11,3,140,Brooke Lynn Hytes,HIGH
+11,3,137,A'keria Chanel Davenport,BTM6
+11,3,139,Silky Nutmeg Ganache,HIGH
 11,3,130,Vanessa Vanjie Mateo,HIGH
 11,3,131,Nina West,WIN
 11,3,132,Shuga Cain,BTM6
@@ -1102,10 +1102,10 @@ season_number,episode_number,contestant_id,contestant_name,episode_placement
 11,3,141,Ariel Versace,HIGH
 11,3,134,Mercedes Iman Diamond,HIGH
 11,3,136,Honey Davenport,ELIM
-11,4,137,A'keria Chanel Davenport,SAFE
-11,4,140,Brooke Lynn Hytes,HIGH
-11,4,139,Silky Nutmeg Ganache,WIN
 11,4,138,Yvie Oddly,HIGH
+11,4,140,Brooke Lynn Hytes,HIGH
+11,4,137,A'keria Chanel Davenport,SAFE
+11,4,139,Silky Nutmeg Ganache,WIN
 11,4,130,Vanessa Vanjie Mateo,LOW
 11,4,131,Nina West,SAFE
 11,4,132,Shuga Cain,SAFE
@@ -1114,10 +1114,10 @@ season_number,episode_number,contestant_id,contestant_name,episode_placement
 11,4,135,Scarlet Envy,SAFE
 11,4,141,Ariel Versace,SAFE
 11,4,134,Mercedes Iman Diamond,ELIM
-11,5,137,A'keria Chanel Davenport,SAFE
-11,5,140,Brooke Lynn Hytes,WIN
-11,5,139,Silky Nutmeg Ganache,LOW
 11,5,138,Yvie Oddly,HIGH
+11,5,140,Brooke Lynn Hytes,WIN
+11,5,137,A'keria Chanel Davenport,SAFE
+11,5,139,Silky Nutmeg Ganache,LOW
 11,5,130,Vanessa Vanjie Mateo,SAFE
 11,5,131,Nina West,SAFE
 11,5,132,Shuga Cain,BTM2
@@ -1125,52 +1125,52 @@ season_number,episode_number,contestant_id,contestant_name,episode_placement
 11,5,142,Ra'jah D. O'Hara,SAFE
 11,5,135,Scarlet Envy,SAFE
 11,5,141,Ariel Versace,ELIM
-11,6,137,A'keria Chanel Davenport,WIN
-11,6,140,Brooke Lynn Hytes,HIGH
-11,6,139,Silky Nutmeg Ganache,HIGH
 11,6,138,Yvie Oddly,HIGH
+11,6,140,Brooke Lynn Hytes,HIGH
+11,6,137,A'keria Chanel Davenport,WIN
+11,6,139,Silky Nutmeg Ganache,HIGH
 11,6,130,Vanessa Vanjie Mateo,SAFE
 11,6,131,Nina West,LOW
 11,6,132,Shuga Cain,HIGH
 11,6,133,Plastique Tiara,SAFE
 11,6,142,Ra'jah D. O'Hara,BTM2
 11,6,135,Scarlet Envy,ELIM
-11,7,137,A'keria Chanel Davenport,BTM2
-11,7,140,Brooke Lynn Hytes,HIGH
-11,7,139,Silky Nutmeg Ganache,SAFE
 11,7,138,Yvie Oddly,HIGH
+11,7,140,Brooke Lynn Hytes,HIGH
+11,7,137,A'keria Chanel Davenport,BTM2
+11,7,139,Silky Nutmeg Ganache,SAFE
 11,7,130,Vanessa Vanjie Mateo,SAFE
 11,7,131,Nina West,LOW
 11,7,132,Shuga Cain,SAFE
 11,7,133,Plastique Tiara,WIN
 11,7,142,Ra'jah D. O'Hara,ELIM
-11,8,137,A'keria Chanel Davenport,SAFE
-11,8,140,Brooke Lynn Hytes,BTM2
-11,8,139,Silky Nutmeg Ganache,WIN
 11,8,138,Yvie Oddly,BTM2
+11,8,140,Brooke Lynn Hytes,BTM2
+11,8,137,A'keria Chanel Davenport,SAFE
+11,8,139,Silky Nutmeg Ganache,WIN
 11,8,130,Vanessa Vanjie Mateo,LOW
 11,8,131,Nina West,HIGH
 11,8,132,Shuga Cain,HIGH
 11,8,133,Plastique Tiara,SAFE
-11,9,137,A'keria Chanel Davenport,WIN
-11,9,140,Brooke Lynn Hytes,HIGH
-11,9,139,Silky Nutmeg Ganache,HIGH
 11,9,138,Yvie Oddly,SAFE
+11,9,140,Brooke Lynn Hytes,HIGH
+11,9,137,A'keria Chanel Davenport,WIN
+11,9,139,Silky Nutmeg Ganache,HIGH
 11,9,130,Vanessa Vanjie Mateo,BTM2
 11,9,131,Nina West,SAFE
 11,9,132,Shuga Cain,LOW
 11,9,133,Plastique Tiara,ELIM
-11,10,137,A'keria Chanel Davenport,SAFE
-11,10,140,Brooke Lynn Hytes,HIGH
-11,10,139,Silky Nutmeg Ganache,LOW
 11,10,138,Yvie Oddly,SAFE
+11,10,140,Brooke Lynn Hytes,HIGH
+11,10,137,A'keria Chanel Davenport,SAFE
+11,10,139,Silky Nutmeg Ganache,LOW
 11,10,130,Vanessa Vanjie Mateo,BTM2
 11,10,131,Nina West,WIN
 11,10,132,Shuga Cain,ELIM
-11,11,137,A'keria Chanel Davenport,HIGH
-11,11,140,Brooke Lynn Hytes,WIN
-11,11,139,Silky Nutmeg Ganache,BTM2
 11,11,138,Yvie Oddly,LOW
+11,11,140,Brooke Lynn Hytes,WIN
+11,11,137,A'keria Chanel Davenport,HIGH
+11,11,139,Silky Nutmeg Ganache,BTM2
 11,11,130,Vanessa Vanjie Mateo,HIGH
 11,11,131,Nina West,ELIM
 11,11,132,Shuga Cain,Guest
@@ -1179,15 +1179,15 @@ season_number,episode_number,contestant_id,contestant_name,episode_placement
 11,11,141,Ariel Versace,Guest
 11,11,136,Honey Davenport,Guest
 11,11,144,Soju,Guest
-11,12,137,A'keria Chanel Davenport,SAFE
-11,12,140,Brooke Lynn Hytes,BTM2
-11,12,139,Silky Nutmeg Ganache,SAFE
 11,12,138,Yvie Oddly,SAFE
+11,12,140,Brooke Lynn Hytes,BTM2
+11,12,137,A'keria Chanel Davenport,SAFE
+11,12,139,Silky Nutmeg Ganache,SAFE
 11,12,130,Vanessa Vanjie Mateo,ELIM
-11,13,137,A'keria Chanel Davenport,Guest
-11,13,140,Brooke Lynn Hytes,Guest
-11,13,139,Silky Nutmeg Ganache,Guest
 11,13,138,Yvie Oddly,Guest
+11,13,140,Brooke Lynn Hytes,Guest
+11,13,137,A'keria Chanel Davenport,Guest
+11,13,139,Silky Nutmeg Ganache,Guest
 11,13,130,Vanessa Vanjie Mateo,Guest
 11,13,131,Nina West,Guest
 11,13,132,Shuga Cain,Guest
@@ -1199,10 +1199,10 @@ season_number,episode_number,contestant_id,contestant_name,episode_placement
 11,13,136,Honey Davenport,Guest
 11,13,143,Kahanna Montrese,Guest
 11,13,144,Soju,Guest
-11,14,137,A'keria Chanel Davenport,Eliminated
-11,14,140,Brooke Lynn Hytes,Runner-up
-11,14,139,Silky Nutmeg Ganache,Eliminated
 11,14,138,Yvie Oddly,Winner
+11,14,140,Brooke Lynn Hytes,Runner-up
+11,14,137,A'keria Chanel Davenport,Eliminated
+11,14,139,Silky Nutmeg Ganache,Eliminated
 11,14,130,Vanessa Vanjie Mateo,Guest
 11,14,131,Nina West,Miss C
 11,14,132,Shuga Cain,Guest
