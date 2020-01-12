@@ -8,7 +8,7 @@ rpdr_episodes <- read_csv('data/rpdr_episodes.csv')
 
 # Explores data
 
-## Gets season's scores
+## Gets season's scores based on [Dusted or Busted Scoring System](https://rupaulsdragrace.fandom.com/wiki/%22Dusted_or_Busted%22_Scoring_System)
 base_scores <- rpdr_rankings %>% distinct(episode_placement) %>% 
   add_column(points=c(0, 2, -1, 1, -2, -2, rep(NA, 7), -2),
              performance=c(5, 10, 2.5, 7.5, 0, 0, rep(NA, 7), -2))
@@ -27,11 +27,11 @@ rpdr_scores <- left_join(rpdr_scores, rpdr_contestants %>%
                            select(season_number, contestant_name, season_outcome)) %>%
                            arrange(desc(performance_episodes), desc(points_episodes))
 
-# Comparison of balancing or not by episode_number
+### Comparison of balancing or not scores by number of season episodes
 comparison_scores <- tibble(general=(rpdr_scores %>% arrange(desc(performance), desc(points)))[1:10,"contestant_name"],
                      weighted=rpdr_scores[1:10,"contestant_name"])
 
-# Graph of performance
+### Graph of performance
 ggplot(rpdr_scores[1:10,], aes(fct_reorder(contestant_name, -performance), performance,
                                fill=as.factor(season_number))) +
   geom_col() + labs(x="contestant") + guides(fill=F)
