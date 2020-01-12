@@ -21,7 +21,7 @@ rpdr_rankings[c(1201:1204, 1206),"episode_placement"] <- c("Eliminated", "Runner
 rpdr_all <- rpdr_contestants %>% left_join(rpdr_rankings) %>% left_join(rpdr_episodes) %>% 
   arrange(season_number, episode_number) %>% 
   select(contestant_id, contestant_name, season_number, episode_number, season_outcome,
-         episode_placement, episode_title, episode_airdate:episode_maxi_challenge_type, everything())
+         episode_title, episode_placement, episode_airdate:episode_maxi_challenge_type, everything())
 
 ## Saves all datasets
 rpdr_all %>% write_csv("data/rpdr_all.csv", na="")
@@ -45,9 +45,13 @@ rpdr_lipsyncs <- bind_rows(lapply(rpdr_lipsyncs, tidy_lipsyncs), .id = "season_n
   mutate(lipsync_song=str_replace_all(lipsync_song, c('"'='', '“'='', '”'=''))) %>%
   extract(lipsync_song, c("lipsync_song", "song_author"), regex="(.*)\\(([^)]*)\\)[^(]*$") %>% 
   write_csv('data/rpdr_lipsyncs.csv', na="")
-
-rpdr_episodes_lipsyncs <- rpdr_episodes %>% left_join(rpdr_lipsyncs) %>% write_csv('data/rpdr_episodes_lipsyncs.csv', na="")
 rm(i)
+
+## Joins lipsync data
+rpdr_episodes_lipsyncs <- rpdr_episodes %>% left_join(rpdr_lipsyncs) %>% write_csv('data/rpdr_episodes_lipsyncs.csv', na="")
+rapdr_all <- rpdr_all %>% left_join(rpdr_lipsyncs) %>%
+  select(contestant_id:episode_maxi_challenge_type, lipsync_song:song_author, everything()) %>% 
+  write_csv('data/rpdr_all.csv')
 
 # Import ratings data from Wikipedia (in progress...)
 ratings_s11 <- htmltab('https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_11)', which=6,
